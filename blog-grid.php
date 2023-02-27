@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from shivaaythemes.in/fithub-demo/blog-grid.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:29 GMT -->
+<!-- Mirrored from shivaaythemes.in/fithub-demo/blog-grid.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:29 GMT -->
 <head>
     <title>Fithub - Gym & Fitness HTML Template</title>
     <meta name="keywords" content="Fithub" />
@@ -66,7 +66,7 @@
                     <div class="col-lg-2">
                         <!-- Sit Logo Start -->
                         <div class="site-branding">
-                            <a href="index-2.html" title="Fithub">
+                            <a href="index-2.php" title="Fithub">
                                 <img src="assets/images/logo.png" alt="Logo">
                                 <img src="assets/images/logo_stickey.png" class="sticky-logo" alt="Logo">
                             </a>
@@ -89,40 +89,40 @@
                                 <li class="sub-items">
                                     <a href="javascript:void(0);" title="Home">Home</a>
                                     <ul class="sub-menu">
-                                        <li><a href="index-2.html" title="Home">Home_01</a></li>
-                                        <li><a href="index-02.html" title="Home">Home_02</a></li>
+                                        <li><a href="index-2.php" title="Home">Home_01</a></li>
+                                        <li><a href="index-02.php" title="Home">Home_02</a></li>
                                     </ul>
                                     </li>
-                                   <li><a href="about-us.html">About Us</a></li>
+                                   <li><a href="about-us.php">About Us</a></li>
                                    <li class="sub-items">
                                     <a href="javascript:void(0);" title="Classes">Classes</a>
                                     <ul class="sub-menu">
-                                        <li><a href="classes.html" title="Classes">Our Classes</a></li>
-                                        <li><a href="class-detail.html" title="Class Detail">Class Detail</a></li>
+                                        <li><a href="classes.php" title="Classes">Our Classes</a></li>
+                                        <li><a href="class-detail.php" title="Class Detail">Class Detail</a></li>
                                     </ul>
                                     </li>
                                     <li class="sub-items">
                                         <a href="javascript:void(0);" title="Pages">Pages</a>
                                         <ul class="sub-menu">
-                                            <li><a href="portfolio.html" title="Portfolio">Portfolio</a></li>
-                                            <li><a href="portfolio-detail.html" title="Portfolio Detail">Portfolio Detail</a></li>
-                                            <li><a href="team.html" title="Team">Team</a></li>
-                                            <li><a href="team-detail.html" title="Team Detail">Team Detail</a></li>
-                                            <li><a href="faq.html" title="FAQ">FAQ</a></li>
-                                            <li><a href="schedule.html" title="Schedule">Schedule</a></li>
-                                            <li><a href="pricing.html" title="Pricing Table">Pricing Table</a></li>
-                                            <li><a href="error-404.html" title="404 Error">404 Error</a></li>
+                                            <li><a href="portfolio.php" title="Portfolio">Portfolio</a></li>
+                                            <li><a href="portfolio-detail.php" title="Portfolio Detail">Portfolio Detail</a></li>
+                                            <li><a href="team.php" title="Team">Team</a></li>
+                                            <li><a href="team-detail.php" title="Team Detail">Team Detail</a></li>
+                                            <li><a href="faq.php" title="FAQ">FAQ</a></li>
+                                            <li><a href="schedule.php" title="Schedule">Schedule</a></li>
+                                            <li><a href="pricing.php" title="Pricing Table">Pricing Table</a></li>
+                                            <li><a href="error-404.php" title="404 Error">404 Error</a></li>
                                         </ul>
                                     </li>
                                     <li class="sub-items active">
                                         <a href="javascript:void(0);" title="Blog">Blog</a>
                                         <ul class="sub-menu">
-                                            <li><a href="blog-grid.html" title="Blog Grid">Blog Grid</a></li>
-                                            <li><a href="blog-list.html" title="Blog List">Blog List</a></li>
-                                            <li><a href="blog-detail.html" title="Blog Detail">Blog Detail</a></li>
+                                            <li><a href="blog-grid.php" title="Blog Grid">Blog Grid</a></li>
+                                            <li><a href="blog-list.php" title="Blog List">Blog List</a></li>
+                                            <li><a href="blog-detail.php" title="Blog Detail">Blog Detail</a></li>
                                         </ul>
                                     </li>
-                                   <li><a href="contact-us.html">Contact Us</a></li>
+                                   <li><a href="contact-us.php">Contact Us</a></li>
                                </ul>
                                 </div>
                             </nav>
@@ -133,7 +133,7 @@
                             </div>
                             <div class="black-shadow"></div>
                             <div class="header-btn">
-                                <a href="contact-us.html" class="sec-btn">Join Now</a>
+                                <a href="contact-us.php" class="sec-btn">Join Now</a>
                             </div>
                         </div>
                     </div>
@@ -154,9 +154,9 @@
                     </div>
                     <div class="banner-breadcum">
                         <ul>
-                            <li><a href="index-2.html">Home</a></li>
+                            <li><a href="index-2.php">Home</a></li>
                             <li><i class="fa fa-chevron-right"></i></li>
-                            <li><a href="blog-grid.html">Blog Grid</a></li>
+                            <li><a href="blog-grid.php">Blog Grid</a></li>
                         </ul>
                     </div>
                 </div>
@@ -178,9 +178,9 @@
                             </div>
                         </div>
                         <div class="blog-content">
-                            <a href="blog-detail.html"><h3 class="h3-title">Going to the gym for the first time</h3></a>
+                            <a href="blog-detail.php"><h3 class="h3-title">Going to the gym for the first time</h3></a>
                             <p>Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.</p>
-                            <a href="blog-detail.html" class="sec-btn-link">Read More</a>
+                            <a href="blog-detail.php" class="sec-btn-link">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -193,9 +193,9 @@
                             </div>
                         </div>
                         <div class="blog-content">
-                            <a href="blog-detail.html"><h3 class="h3-title">Parturient accumsan cacus pulvinar magna</h3></a>
+                            <a href="blog-detail.php"><h3 class="h3-title">Parturient accumsan cacus pulvinar magna</h3></a>
                             <p>Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.</p>
-                            <a href="blog-detail.html" class="sec-btn-link">Read More</a>
+                            <a href="blog-detail.php" class="sec-btn-link">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -208,9 +208,9 @@
                             </div>
                         </div>
                         <div class="blog-content">
-                            <a href="blog-detail.html"><h3 class="h3-title">Risus purus namien parturient accumsan cacus</h3></a>
+                            <a href="blog-detail.php"><h3 class="h3-title">Risus purus namien parturient accumsan cacus</h3></a>
                             <p>Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.</p>
-                            <a href="blog-detail.html" class="sec-btn-link">Read More</a>
+                            <a href="blog-detail.php" class="sec-btn-link">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -223,9 +223,9 @@
                             </div>
                         </div>
                         <div class="blog-content">
-                            <a href="blog-detail.html"><h3 class="h3-title">What would be your top tips for making a success</h3></a>
+                            <a href="blog-detail.php"><h3 class="h3-title">What would be your top tips for making a success</h3></a>
                             <p>Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.</p>
-                            <a href="blog-detail.html" class="sec-btn-link">Read More</a>
+                            <a href="blog-detail.php" class="sec-btn-link">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -239,9 +239,9 @@
                             </div>
                         </div>
                         <div class="blog-content">
-                            <a href="blog-detail.html"><h3 class="h3-title">5 Perfect Yoga Learning Tips You Should Know</h3></a>
+                            <a href="blog-detail.php"><h3 class="h3-title">5 Perfect Yoga Learning Tips You Should Know</h3></a>
                             <p>Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.</p>
-                            <a href="blog-detail.html" class="sec-btn-link">Read More</a>
+                            <a href="blog-detail.php" class="sec-btn-link">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -254,9 +254,9 @@
                             </div>
                         </div>
                         <div class="blog-content">
-                            <a href="blog-detail.html"><h3 class="h3-title">Secrets To Reduce Multiplayer Mother Than Fast</h3></a>
+                            <a href="blog-detail.php"><h3 class="h3-title">Secrets To Reduce Multiplayer Mother Than Fast</h3></a>
                             <p>Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.</p>
-                            <a href="blog-detail.html" class="sec-btn-link">Read More</a>
+                            <a href="blog-detail.php" class="sec-btn-link">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -269,9 +269,9 @@
                             </div>
                         </div>
                         <div class="blog-content">
-                            <a href="blog-detail.html"><h3 class="h3-title">Do You Know Why Sweatsuits Are</h3></a>
+                            <a href="blog-detail.php"><h3 class="h3-title">Do You Know Why Sweatsuits Are</h3></a>
                             <p>Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.</p>
-                            <a href="blog-detail.html" class="sec-btn-link">Read More</a>
+                            <a href="blog-detail.php" class="sec-btn-link">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -284,9 +284,9 @@
                             </div>
                         </div>
                         <div class="blog-content">
-                            <a href="blog-detail.html"><h3 class="h3-title">Yes, You Can Get Dehydrated in Winter</h3></a>
+                            <a href="blog-detail.php"><h3 class="h3-title">Yes, You Can Get Dehydrated in Winter</h3></a>
                             <p>Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.</p>
-                            <a href="blog-detail.html" class="sec-btn-link">Read More</a>
+                            <a href="blog-detail.php" class="sec-btn-link">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -299,9 +299,9 @@
                             </div>
                         </div>
                         <div class="blog-content">
-                            <a href="blog-detail.html"><h3 class="h3-title">The First Marc Fitness Original. Super</h3></a>
+                            <a href="blog-detail.php"><h3 class="h3-title">The First Marc Fitness Original. Super</h3></a>
                             <p>Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.</p>
-                            <a href="blog-detail.html" class="sec-btn-link">Read More</a>
+                            <a href="blog-detail.php" class="sec-btn-link">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -314,9 +314,9 @@
                             </div>
                         </div>
                         <div class="blog-content">
-                            <a href="blog-detail.html"><h3 class="h3-title">31 Top Fitness Blogs You Should Follow in 2021</h3></a>
+                            <a href="blog-detail.php"><h3 class="h3-title">31 Top Fitness Blogs You Should Follow in 2021</h3></a>
                             <p>Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.</p>
-                            <a href="blog-detail.html" class="sec-btn-link">Read More</a>
+                            <a href="blog-detail.php" class="sec-btn-link">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -330,9 +330,9 @@
                             </div>
                         </div>
                         <div class="blog-content">
-                            <a href="blog-detail.html"><h3 class="h3-title">How To Choose A Modern Gym Design 2021</h3></a>
+                            <a href="blog-detail.php"><h3 class="h3-title">How To Choose A Modern Gym Design 2021</h3></a>
                             <p>Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.</p>
-                            <a href="blog-detail.html" class="sec-btn-link">Read More</a>
+                            <a href="blog-detail.php" class="sec-btn-link">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -345,9 +345,9 @@
                             </div>
                         </div>
                         <div class="blog-content">
-                            <a href="blog-detail.html"><h3 class="h3-title">Interdum convallis praesent justo praesent</h3></a>
+                            <a href="blog-detail.php"><h3 class="h3-title">Interdum convallis praesent justo praesent</h3></a>
                             <p>Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.</p>
-                            <a href="blog-detail.html" class="sec-btn-link">Read More</a>
+                            <a href="blog-detail.php" class="sec-btn-link">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -379,7 +379,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer-box-one">
-                        <a href="index-2.html">
+                        <a href="index-2.php">
                             <img src="assets/images/logo.png" alt="Fithub">
                         </a>
                         <p>Etiam suscipit fringilla ullamcorper sed malesuada urna nec odio.</p>
@@ -403,11 +403,11 @@
                         <h3 class="h3-title">Our Links</h3>
                         <div class="line"></div>
                         <ul>
-                            <li><a href="index-2.html">Home</a></li>
-                            <li><a href="about-us.html">About Us</a></li>
-                            <li><a href="classes.html">Classes</a></li>
-                            <li><a href="blog-list.html">Blog</a></li>
-                            <li><a href="contact-us.html">Contact Us</a></li>
+                            <li><a href="index-2.php">Home</a></li>
+                            <li><a href="about-us.php">About Us</a></li>
+                            <li><a href="classes.php">Classes</a></li>
+                            <li><a href="blog-list.php">Blog</a></li>
+                            <li><a href="contact-us.php">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -469,14 +469,14 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-7">
                         <div class="copyright-text">
-                            <span>Copyright © 2022 <a href="index-2.html">ShivaayThemes.</a> All rights reserved.</span>
+                            <span>Copyright © 2022 <a href="index-2.php">ShivaayThemes.</a> All rights reserved.</span>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-5">
                         <div class="copyright-links">
                             <ul>
-                                <li><a href="about-us.html">Privacy Policy</a></li>
-                                <li><a href="about-us.html">Team &amp; Condition</a></li>
+                                <li><a href="about-us.php">Privacy Policy</a></li>
+                                <li><a href="about-us.php">Team &amp; Condition</a></li>
                             </ul>
                         </div>
                     </div>
@@ -544,5 +544,5 @@
 
 </body>
 
-<!-- Mirrored from shivaaythemes.in/fithub-demo/blog-grid.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:32 GMT -->
+<!-- Mirrored from shivaaythemes.in/fithub-demo/blog-grid.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:32 GMT -->
 </html>

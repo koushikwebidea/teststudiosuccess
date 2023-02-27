@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from shivaaythemes.in/fithub-demo/index-02.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:17 GMT -->
+<!-- Mirrored from shivaaythemes.in/fithub-demo/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:17 GMT -->
 <head>
     <title>Fithub - Gym & Fitness HTML Template</title>
     <meta name="keywords" content="Fithub" />
@@ -63,8 +63,8 @@
                     <div class="col-lg-2">
                         <!-- Sit Logo Start -->
                         <div class="site-branding">
-                            <a href="index-02.html" title="Fithub">
-                                <img src="assets/images/logo_stickey.png" alt="Logo">
+                            <a href="index-2.php" title="Fithub">
+                                <img src="assets/images/logo.png" alt="Logo">
                                 <img src="assets/images/logo_stickey.png" class="sticky-logo" alt="Logo">
                             </a>
                         </div>
@@ -72,7 +72,7 @@
                     </div>
                     <div class="col-lg-10">
                         <div class="header-menu">
-                            <nav class="main-navigation two">
+                            <nav class="main-navigation one">
                                 <button class="toggle-button">
                                     <span></span>
                                     <span class="toggle-width"></span>
@@ -86,51 +86,51 @@
                                 <li class="sub-items active">
                                     <a href="javascript:void(0);" title="Home">Home</a>
                                     <ul class="sub-menu">
-                                        <li><a href="index-2.html" title="Home">Home_01</a></li>
-                                        <li><a href="index-02.html" title="Home">Home_02</a></li>
+                                        <li><a href="index-2.php" title="Home">Home_01</a></li>
+                                        <li><a href="index-02.php" title="Home">Home_02</a></li>
                                     </ul>
                                     </li>
-                                   <li><a href="about-us.html">About Us</a></li>
+                                   <li><a href="about-us.php">About Us</a></li>
                                    <li class="sub-items">
                                     <a href="javascript:void(0);" title="Classes">Classes</a>
                                     <ul class="sub-menu">
-                                        <li><a href="classes.html" title="Classes">Our Classes</a></li>
-                                        <li><a href="class-detail.html" title="Class Detail">Class Detail</a></li>
+                                        <li><a href="classes.php" title="Classes">Our Classes</a></li>
+                                        <li><a href="class-detail.php" title="Class Detail">Class Detail</a></li>
                                     </ul>
                                     </li>
                                     <li class="sub-items">
                                         <a href="javascript:void(0);" title="Pages">Pages</a>
                                         <ul class="sub-menu">
-                                            <li><a href="portfolio.html" title="Portfolio">Portfolio</a></li>
-                                            <li><a href="portfolio-detail.html" title="Portfolio Detail">Portfolio Detail</a></li>
-                                            <li><a href="team.html" title="Team">Team</a></li>
-                                            <li><a href="team-detail.html" title="Team Detail">Team Detail</a></li>
-                                            <li><a href="faq.html" title="FAQ">FAQ</a></li>
-                                            <li><a href="schedule.html" title="Schedule">Schedule</a></li>
-                                            <li><a href="portfolio.html" title="Pricing Table">Pricing Table</a></li>
-                                            <li><a href="error-404.html" title="404 Error">404 Error</a></li>
+                                            <li><a href="portfolio.php" title="Portfolio">Portfolio</a></li>
+                                            <li><a href="portfolio-detail.php" title="Portfolio Detail">Portfolio Detail</a></li>
+                                            <li><a href="team.php" title="Team">Team</a></li>
+                                            <li><a href="team-detail.php" title="Team Detail">Team Detail</a></li>
+                                            <li><a href="faq.php" title="FAQ">FAQ</a></li>
+                                            <li><a href="schedule.php" title="Schedule">Schedule</a></li>
+                                            <li><a href="pricing.php" title="Pricing Table">Pricing Table</a></li>
+                                            <li><a href="error-404.php" title="404 Error">404 Error</a></li>
                                         </ul>
                                     </li>
                                     <li class="sub-items">
                                         <a href="javascript:void(0);" title="Blog">Blog</a>
                                         <ul class="sub-menu">
-                                            <li><a href="blog-grid.html" title="Blog Grid">Blog Grid</a></li>
-                                            <li><a href="blog-list.html" title="Blog List">Blog List</a></li>
-                                            <li><a href="blog-detail.html" title="Blog Detail">Blog Detail</a></li>
+                                            <li><a href="blog-grid.php" title="Blog Grid">Blog Grid</a></li>
+                                            <li><a href="blog-list.php" title="Blog List">Blog List</a></li>
+                                            <li><a href="blog-detail.php" title="Blog Detail">Blog Detail</a></li>
                                         </ul>
                                     </li>
-                                   <li><a href="class-detail.html">Contact Us</a></li>
+                                   <li><a href="contact-us.php">Contact Us</a></li>
                                </ul>
                                 </div>
                             </nav>
-                            <div class="header-search-box two">
+                            <div class="header-search-box">
                                 <a href="javascript:void(0);" data-bs-toggle="modal" data-bs-target="#search-modal" class="header-search">
                                     <i class="fa fa-search" aria-hidden="true"></i>
                                 </a>
                             </div>
                             <div class="black-shadow"></div>
-                            <div class="header-btn-two">
-                                <a href="contact-us.html" class="sec-btn">Join Now</a>
+                            <div class="header-btn">
+                                <a href="contact-us.php" class="sec-btn">Join Now</a>
                             </div>
                         </div>
                     </div>
@@ -142,41 +142,49 @@
     <!-- Header End -->
 
     <!--Banner Start-->
-    <section class="main-banner-two">
-        <div class="banner-two-circle-one"></div>
-        <div class="banner-two-circle-two"></div>
-        <div class="banner-two-circle-three"></div>
+    <section class="main-banner">
+        <div class="banner-overlay-bg animate-this">
+            <img src="assets/images/banner-overlay.png" alt="Overlay">
+        </div>
+        <div class="banner-blur-bg">
+            <img src="assets/images/blur-1.png" alt="Blur">
+        </div>
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <div class="banner-title-two">
+                    <div class="banner-title-one">
                         <div class="main-banner-subtitle-box wow fadeInUp" data-wow-delay=".5s">
-                            <div class="banner-subtitle-box">
-                             <div class="banner-subtitle-first">The Best</div>
-                             <div class="banner-subtitle-second">Fitness Club</div>
-                            </div> 
-                         </div>
-                         <h1 class="h1-title wow fadeInUp" data-wow-delay=".7s">Shape Your Ideal <span>Body Fit</span></h1>
-                        <p class="wow fadeInUp" data-wow-delay=".9s">Duis mollis felis quis libero dictum vehicula. Duis dictum lorem mi, a faucibus nisi eleifend eu.</p>
-                        <div class="banner-btn-two wow fadeInUp" data-wow-delay="1s">
-                            <a href="about-us.html" class="sec-btn wow fadeInUp" data-wow-delay="1s">Get Started</a>
-                            <a href="https://www.youtube.com/watch?v=yUwpx81trCo;" class="banner-play-btn popup-youtube"><i class="fa fa-play" aria-hidden="true"></i></a>
+                           <div class="banner-subtitle-box">
+                            <div class="banner-subtitle-first">The Best</div>
+                            <div class="banner-subtitle-second">Fitness Club</div>
+                           </div> 
                         </div>
+                        <h1 class="h1-title wow fadeInUp" data-wow-delay=".7s">Work Hard To Get Better Life</h1>
+                        <p class="wow fadeInUp" data-wow-delay=".9s">Duis mollis felis quis libero dictum vehicula. Duis dictum lorem mi, a faucibus nisi eleifend eu.</p>
+                        <a href="about-us.php" class="sec-btn wow fadeInUp" data-wow-delay="1s">Get Started</a>
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="main-banner-img-two wow fadeInRight" data-wow-delay=".5s">
-                        <img src="assets/images/banner-img-2.png" alt="Banner">
-                        <div class="banner-img-circle-two animate-this">
-                            <img src="assets/images/banner-img-circle-bg.png" alt="Circle">
+                    <div class="main-banner-img-one">
+                        <img src="assets/images/banner-img-1.png" alt="Banner">
+                        <div class="banner-circle-first">
+                            <img src="assets/images/banner-circle-one.png" alt="Circle">
                         </div>
-                        <div class="heart-rate-two">
-                            <div class="heart-icon">
-                                <img src="assets/images/heart-rate-2.png" alt="Heart Rate">
-                            </div>
-                            <div class="heart-text">
-                                <span>Heart Rate</span>
-                                <h3>100 bpm</h3>
+                        <div class="banner-circle-second">
+                            <img src="assets/images/banner-circle-two.png" alt="Circle">
+                        </div>
+                        <div class="heart-rate">
+                            <img src="assets/images/heart-rate.png" alt="Heart Rate">
+                            <span>Heart Rate</span>
+                            <h3>100 bpm</h3>
+                        </div>
+                        <div class="calories-box">
+                            <div class="calories">
+                                <img src="assets/images/calories.png" alt="Heart Rate">
+                                <div class="calories-text">
+                                    <span>Calories Burned</span>
+                                    <h3>100 bpm</h3>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -186,81 +194,29 @@
     </section>
     <!--Banner End-->
 
-    <!--Features Start-->
-    <section class="main-features">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="feature-box wow fadeInUp" data-wow-delay=".5s">
-                        <span>01</span>
-                        <div class="feature-icon">
-                            <img src="assets/images/feature-1.png" alt="Icon">
-                        </div>
-                        <div class="feature-text">
-                            <h3 class="h3-title">Dedicated Service</h3>
-                            <p>Nam laoreet ultricies vestibulum. Cras a odio tempo.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="feature-box wow fadeInDown" data-wow-delay=".5s">
-                        <span>02</span>
-                        <div class="feature-icon">
-                            <img src="assets/images/feature-2.png" alt="Icon">
-                        </div>
-                        <div class="feature-text">
-                            <h3 class="h3-title">Qualified Trainer</h3>
-                            <p>Nam laoreet ultricies vestibulum. Cras a odio tempo.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="feature-box wow fadeInUp" data-wow-delay=".5s">
-                        <span>03</span>
-                        <div class="feature-icon">
-                            <img src="assets/images/feature-3.png" alt="Icon">
-                        </div>
-                        <div class="feature-text">
-                            <h3 class="h3-title">Organic Proteins</h3>
-                            <p>Nam laoreet ultricies vestibulum. Cras a odio tempo.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="feature-box wow fadeInDown" data-wow-delay=".5s">
-                        <span>04</span>
-                        <div class="feature-icon">
-                            <img src="assets/images/feature-4.png" alt="Icon">
-                        </div>
-                        <div class="feature-text">
-                            <h3 class="h3-title">Award Programs</h3>
-                            <p>Nam laoreet ultricies vestibulum. Cras a odio tempo.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--Features End-->
-
     <!--About Us Start-->
-    <section class="main-about-us-two">
+    <section class="main-about-us">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <div class="about-img-two wow fadeInLeft" data-wow-delay=".5s">
-                        <img src="assets/images/about-img-two.png" alt="About Us">
-                        <div class="about-img-bg-circle-two"></div>
-                        <div class="about-client">
-                            <div class="about-client-content">
-                                <span>150k+ Clients</span>
-                                <img src="assets/images/about-client.png" alt="Clients">
-                            </div>
+                    <div class="about-img-box wow fadeInLeft" data-wow-delay=".5s">
+                        <div class="about-img-one">
+                            <img src="assets/images/about-img-one.png" alt="About Us">
+                        </div>
+                        <div class="about-img-bg"></div>
+                        <div class="fitness">
+                            <img src="assets/images/fitness.png" alt="Fitness">
+                        </div>
+                        <div class="about-circle-one">
+                            <img src="assets/images/about-circle-one.png" alt="Circle">
+                        </div>
+                        <div class="about-circle-two">
+                            <img src="assets/images/about-circle-two.png" alt="Circle">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="about-content-box two wow fadeInRight" data-wow-delay=".5s">
+                    <div class="about-content-box wow fadeInRight" data-wow-delay=".5s">
                         <div class="about-us-title">
                             <div class="subtitle">
                                 <h2 class="h2-subtitle">About Us</h2>
@@ -268,20 +224,19 @@
                             <h2 class="h2-title">Welcome To Our Fitness Gym</h2>
                         </div>
                         <p>Nam ut hendrerit leo. Aenean vel ipsum nunc. Curabitur in tellus vitae nisi aliquet dapibus non et erat. Pellentesque porta sapien non accumsan dignissim curabitur sagittis nulla sit amet dolor feugiat.</p>
-                        <div class="points">
-                            <ul>
-                                <li>
-                                    <div class="point-object"></div><p>Morbi sed massa scelerisque, porta dui vel, finibus nulla. Etiam accumsan, eros quis rhoncus interdum.</p>
-                                </li>
-                                <li>
-                                    <div class="point-object"></div><p>Sed posuere purus eget pharetra commodo. Pellentesque consectetur quam in neque dignissim tincidunt.</p>
-                                </li>
-                                <li>
-                                    <div class="point-object"></div><p>Nulla faucibus mi a lectus interdum tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                </li>
-                            </ul>
+                        <p>Integer placerat vitae metus posuere tincidunt. Nullam suscipit ante ac aliquet viverra vestibulum ante ipsum primis.</p>
+                        <div class="about-text-box">
+                            <div class="about-trainer-box">
+                                <div class="about-trainer-img">
+                                    <img src="assets/images/about-trainer.jpg" class="rounded-circle" alt="Trainer">
+                                </div>
+                                <div class="about-trainer-name">
+                                    <h3 class="h3-title">Denis Robinson</h3>
+                                    <span>Our Coach</span>
+                                </div>
+                            </div>
+                            <a href="about-us.php" class="sec-btn">Explore More</a>
                         </div>
-                        <a href="about-us.html" class="sec-btn">Explore More</a>
                     </div>
                 </div>
             </div>
@@ -289,68 +244,37 @@
     </section>
     <!--About Us End-->
 
-    <!--Portfolio Start-->
-    <div class="main-portfolio">
-        <div class="container-fluid">
-            <div class="row portfolio-slider">
-                <div class="col-lg-4">
-                    <div class="portfolio-box wow fadeInUp" data-wow-delay=".5s">
-                        <img src="assets/images/portfolio-img1.jpg" alt="Portfolio">
-                        <div class="portfolio-content">
-                            <span>Weight Loss Program</span>
-                            <a href="portfolio-detail.html"><h3 class="h3-title">Couple Fitness Workout</h3></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="portfolio-box wow fadeInDown" data-wow-delay=".5s">
-                        <img src="assets/images/portfolio-img2.jpg" alt="Portfolio">
-                        <div class="portfolio-content">
-                            <span>Weight Loss Program</span>
-                            <a href="portfolio-detail.html"><h3 class="h3-title">Couple Fitness Workout</h3></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="portfolio-box wow fadeInUp" data-wow-delay=".5s">
-                        <img src="assets/images/portfolio-img3.jpg" alt="Portfolio">
-                        <div class="portfolio-content">
-                            <span>Weight Loss Program</span>
-                            <a href="portfolio-detail.html"><h3 class="h3-title">Cardio Workout</h3></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="portfolio-box wow fadeInDown" data-wow-delay=".5s">
-                        <img src="assets/images/portfolio-img4.jpg" alt="Portfolio">
-                        <div class="portfolio-content">
-                            <span>Weight Loss Program</span>
-                            <a href="portfolio-detail.html"><h3 class="h3-title">Fitness Workout</h3></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="portfolio-box wow fadeInUp" data-wow-delay=".5s">
-                        <img src="assets/images/portfolio-img5.jpg" alt="Portfolio">
-                        <div class="portfolio-content">
-                            <span>Weight Loss Program</span>
-                            <a href="portfolio-detail.html"><h3 class="h3-title">Couple Fitness Workout</h3></a>
+    <!--Video Start-->
+    <section class="main-video">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-12">
+                    <div class="video-box wow fadeInUp" data-wow-delay=".5s">
+                        <div class="video-img" style="background-image: url('assets/images/video-img.jpg');">
+                            <div class="video-content">
+                                <h2 class="h2-title">Explore Fitness Life</h2>
+                                <div class="play-btn">
+                                    <a href="https://www.youtube.com/watch?v=yUwpx81trCo" class="video-play-icon popup-youtube" title="Play Video"><span><i class="fa fa-play" aria-hidden="true"></i></span></a>
+                                </div>
+                                <a href="about-us.php" class="sec-btn-link">Watch More</a>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!--Portfolio End-->
+    </section>
+    <!--Video End-->
 
     <!--Classes Start-->
-    <section class="main-classes-two">
-        <div class="sec-circle-one"></div>
-        <div class="sec-circle-two"></div>
+    <section class="main-classes">
+        <div class="classes-overlay-bg animate-this">
+            <img src="assets/images/classes-overlay-bg.png" alt="Overlay">
+        </div>
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="classes-title two">
+                    <div class="classes-title">
                         <div class="subtitle">
                             <h2 class="h2-subtitle">Our Classes</h2>
                         </div>
@@ -369,7 +293,7 @@
                                 <div class="class-box-icon">
                                     <img src="assets/images/class-icon1.png" alt="Icon">
                                 </div>
-                                <a href="class-detail.html"><h3 class="h3-title">Weight Lifting<br>Classes</h3></a>
+                                <a href="class-detail.php"><h3 class="h3-title">Weight Lifting<br>Classes</h3></a>
                             </div>
                             <p>Suspendisse nisi libero, cursus ac magna sit amet, fermentum imperdiet nisi.</p>
                             <div class="class-full" id="progress_bar">
@@ -396,7 +320,7 @@
                                 <div class="class-box-icon">
                                     <img src="assets/images/class-icon2.png" alt="Icon">
                                 </div>
-                                <a href="class-detail.html"><h3 class="h3-title">Cardio & Strenght<br>Classes</h3></a>
+                                <a href="class-detail.php"><h3 class="h3-title">Cardio & Strenght<br>Classes</h3></a>
                             </div>
                             <p>Suspendisse nisi libero, cursus ac magna sit amet, fermentum imperdiet nisi.</p>
                             <div class="class-full">
@@ -423,7 +347,7 @@
                                 <div class="class-box-icon">
                                     <img src="assets/images/class-icon3.png" alt="Icon">
                                 </div>
-                                <a href="class-detail.html"><h3 class="h3-title">Power Yoga<br>Classes</h3></a>
+                                <a href="class-detail.php"><h3 class="h3-title">Power Yoga<br>Classes</h3></a>
                             </div>
                             <p>Suspendisse nisi libero, cursus ac magna sit amet, fermentum imperdiet nisi.</p>
                             <div class="class-full">
@@ -450,7 +374,7 @@
                                 <div class="class-box-icon">
                                     <img src="assets/images/class-icon4.png" alt="Icon">
                                 </div>
-                                <a href="class-detail.html"><h3 class="h3-title">Power Yoga<br>Classes</h3></a>
+                                <a href="class-detail.php"><h3 class="h3-title">Power Yoga<br>Classes</h3></a>
                             </div>
                             <p>Suspendisse nisi libero, cursus ac magna sit amet, fermentum imperdiet nisi.</p>
                             <div class="class-full">
@@ -690,70 +614,68 @@
     </section>
     <!--Schedule End-->
 
-    <!--Download App Start-->
-    <section class="main-download-app">
-        <div class="download-app-overlay-bg animate-this">
-            <img src="assets/images/download-app-overlay-bg.png" alt="Overlay">
-        </div>
+    <!--Counter Start-->
+    <section class="main-counter">
         <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="mobile-img-box wow fadeInLeft" data-wow-delay=".5s">
-                        <div class="mobile-img">
-                            <img src="assets/images/mobile.png" alt="Mobile">
-                        <div class="mobile-circle-one">
-                            <img src="assets/images/mobile-circle1.png" alt="Circle">
-                        </div>
-                        <div class="mobile-circle-two">
-                            <img src="assets/images/mobile-circle2.png" alt="Circle">
-                        </div>
+            <div class="row counter-bg wow fadeInUp" data-wow-delay=".5s">
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="counter-box">
+                        <div class="counter-content">
+                            <h2 class="h2-title counting-data" data-count="874">0</h2>
+                            <div class="counter-text">
+                                <img src="assets/images/happy-client.png" alt="Happy Client">
+                                <span>Happy Clients</span>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <div class="download-app-content wow fadeInRight" data-wow-delay=".5s">
-                        <div class="download-app-title">
-                            <div class="subtitle">
-                                <h2 class="h2-subtitle">Download App</h2>
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="counter-box">
+                        <div class="counter-content">
+                            <h2 class="h2-title counting-data" data-count="987">0</h2>
+                            <div class="counter-text">
+                                <img src="assets/images/total-clients.png" alt="Total Clients">
+                                <span>Total Clients</span>
                             </div>
-                            <h2 class="h2-title">Get Advice On Gym & Fitness App</h2>
                         </div>
-                        <p>Mauris vitae quam tincidunt, sollicitudin sapien nec, tincidunt urna. Integer commodo, lorem vel fringilla tincidunt.</p>
-                        <div class="app-stor-box">
-                            <div class="row">
-                                <div class="col-lg-6 col-md-6 col-sm-6">
-                                    <div class="apple-store">
-                                        <img src="assets/images/apple.png" alt="Apple">
-                                        <div class="apple-store-text">
-                                            <span>Available on</span>
-                                            <span>App Store</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6">
-                                    <div class="google-store">
-                                        <img src="assets/images/google-play.png" alt="Apple">
-                                        <div class="google-store-text">
-                                            <span>Available on</span>
-                                            <span>App Store</span>
-                                        </div>
-                                    </div>
-                                </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="counter-box">
+                        <div class="counter-content">
+                            <h2 class="h2-title counting-data" data-count="587">0</h2>
+                            <div class="counter-text">
+                                <img src="assets/images/gym-equipment.png" alt="Gym Equipment">
+                                <span>Gym Equipment</span>
                             </div>
-                        </div>                        
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="counter-box">
+                        <div class="counter-content">
+                            <h2 class="h2-title counting-data" data-count="748">0</h2>
+                            <div class="counter-text">
+                                <img src="assets/images/cup-of-coffee.png" alt="Cup Of Coffee">
+                                <span>Cup Of Coffee</span>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!--Download App End-->
+    <!--Counter End-->
 
     <!--Team Start-->
-    <section class="main-team-two">
+    <section class="main-team">
+        <div class="team-overlay-bg animate-this">
+            <img src="assets/images/team-overlay-bg.png" alt="Overlay">
+        </div>
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="team-title two">
+                    <div class="team-title">
                         <div class="subtitle">
                             <h2 class="h2-subtitle">Best Trainer</h2>
                         </div>
@@ -764,13 +686,13 @@
             <div class="row team-slider">
                 <div class="col-lg-3">
                     <div class="team-box wow fadeInUp" data-wow-delay=".5s">
-                        <div class="team-img-box team-border-two">
+                        <div class="team-img-box team-border-one">
                             <div class="team-img">
                                 <img src="assets/images/trainer1.jpg" alt="Trainer">
                             </div>
                         </div>
                         <div class="team-content">
-                            <a href="team-detail.html"><h3 class="h3-title">Desert Antony</h3></a>
+                            <a href="team-detail.php"><h3 class="h3-title team-text-color">Desert Antony</h3></a>
                             <span>Fitness Trainer</span>
                             <div class="team-social">
                                 <ul>
@@ -790,13 +712,13 @@
                 </div>
                 <div class="col-lg-3">
                     <div class="team-box wow fadeInDown" data-wow-delay=".5s">
-                        <div class="team-img-box team-border-two">
+                        <div class="team-img-box team-border-one">
                             <div class="team-img">
                                 <img src="assets/images/trainer2.jpg" alt="Trainer">
                             </div>
                         </div>
                         <div class="team-content">
-                            <a href="team-detail.html"><h3 class="h3-title">Kate Johnson</h3></a>
+                            <a href="team-detail.php"><h3 class="h3-title team-text-color">Kate Johnson</h3></a>
                             <span>Fitness Trainer</span>
                             <div class="team-social">
                                 <ul>
@@ -816,13 +738,13 @@
                 </div>
                 <div class="col-lg-3">
                     <div class="team-box wow fadeInUp" data-wow-delay=".5s">
-                        <div class="team-img-box team-border-two">
+                        <div class="team-img-box team-border-one">
                             <div class="team-img">
                                 <img src="assets/images/trainer3.jpg" alt="Trainer">
                             </div>
                         </div>
                         <div class="team-content">
-                            <a href="team-detail.html"><h3 class="h3-title">John Hard</h3></a>
+                            <a href="team-detail.php"><h3 class="h3-title team-text-color">John Hard</h3></a>
                             <span>Fitness Trainer</span>
                             <div class="team-social">
                                 <ul>
@@ -842,13 +764,13 @@
                 </div>
                 <div class="col-lg-3">
                     <div class="team-box wow fadeInDown" data-wow-delay=".5s">
-                        <div class="team-img-box team-border-two">
+                        <div class="team-img-box team-border-one">
                             <div class="team-img">
                                 <img src="assets/images/trainer4.jpg" alt="Trainer">
                             </div>
                         </div>
                         <div class="team-content">
-                            <a href="team-detail.html"><h3 class="h3-title">Zahra Sharif</h3></a>
+                            <a href="team-detail.php"><h3 class="h3-title team-text-color">Zahra Sharif</h3></a>
                             <span>Fitness Trainer</span>
                             <div class="team-social">
                                 <ul>
@@ -868,13 +790,13 @@
                 </div>
                 <div class="col-lg-3">
                     <div class="team-box wow fadeInUp" data-wow-delay=".5s">
-                        <div class="team-img-box team-border-two">
+                        <div class="team-img-box team-border-one">
                             <div class="team-img">
                                 <img src="assets/images/trainer5.jpg" alt="Trainer">
                             </div>
                         </div>
                         <div class="team-content">
-                            <a href="team-detail.html"><h3 class="h3-title">Ruth Edwards</h3></a>
+                            <a href="team-detail.php"><h3 class="h3-title team-text-color">Ruth Edwards</h3></a>
                             <span>Fitness Trainer</span>
                             <div class="team-social">
                                 <ul>
@@ -898,9 +820,7 @@
     <!--Team End-->
 
     <!--Pricing Start-->
-    <section class="main-pricing-two">
-        <div class="sec-circle-one"></div>
-        <div class="sec-circle-two"></div>
+    <section class="main-pricing">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -946,7 +866,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <a href="contact-us.html" class="sec-btn">Join Now</a>
+                            <a href="contact-us.php" class="sec-btn">Join Now</a>
                         </div>
                     </div>
                 </div>
@@ -983,7 +903,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <a href="contact-us.html" class="sec-btn">Join Now</a>
+                            <a href="contact-us.php" class="sec-btn">Join Now</a>
                         </div>
                     </div>
                 </div>
@@ -1020,7 +940,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <a href="contact-us.html" class="sec-btn">Join Now</a>
+                            <a href="contact-us.php" class="sec-btn">Join Now</a>
                         </div>
                     </div>
                 </div>
@@ -1029,8 +949,65 @@
     </section>
     <!--Pricing End-->
 
+    <!--Portfolio Start-->
+    <div class="main-portfolio">
+        <div class="container-fluid">
+            <div class="row portfolio-slider">
+                <div class="col-lg-4">
+                    <div class="portfolio-box wow fadeInUp" data-wow-delay=".5s">
+                        <img src="assets/images/portfolio-img1.jpg" alt="Portfolio">
+                        <div class="portfolio-content">
+                            <span>Weight Loss Program</span>
+                            <a href="portfolio-detail.php"><h3 class="h3-title">Couple Fitness Workout</h3></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="portfolio-box wow fadeInDown" data-wow-delay=".5s">
+                        <img src="assets/images/portfolio-img2.jpg" alt="Portfolio">
+                        <div class="portfolio-content">
+                            <span>Weight Loss Program</span>
+                            <a href="portfolio-detail.php"><h3 class="h3-title">Couple Fitness Workout</h3></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="portfolio-box wow fadeInUp" data-wow-delay=".5s">
+                        <img src="assets/images/portfolio-img3.jpg" alt="Portfolio">
+                        <div class="portfolio-content">
+                            <span>Weight Loss Program</span>
+                            <a href="portfolio-detail.php"><h3 class="h3-title">Cardio Workout</h3></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="portfolio-box wow fadeInDown" data-wow-delay=".5s">
+                        <img src="assets/images/portfolio-img4.jpg" alt="Portfolio">
+                        <div class="portfolio-content">
+                            <span>Weight Loss Program</span>
+                            <a href="portfolio-detail.php"><h3 class="h3-title">Fitness Workout</h3></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="portfolio-box wow fadeInUp" data-wow-delay=".5s">
+                        <img src="assets/images/portfolio-img5.jpg" alt="Portfolio">
+                        <div class="portfolio-content">
+                            <span>Weight Loss Program</span>
+                            <a href="portfolio-detail.php"><h3 class="h3-title">Couple Fitness Workout</h3></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Portfolio End-->
+
     <!--Appointment Start-->
-    <section class="main-appointment-two">
+    <section class="main-appointment">
+        <div class="appointment-overlay-bg animate-this">
+            <img src="assets/images/appointment-overlay-bg.png" alt="Overlay">
+        </div>
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
@@ -1108,63 +1085,8 @@
     </section>
     <!--Appointment End-->
 
-     <!--Counter Start-->
-     <section class="main-counter">
-        <div class="container">
-            <div class="row counter-bg wow fadeInUp" data-wow-delay=".5s">
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="counter-box">
-                        <div class="counter-content">
-                            <h2 class="h2-title counting-data" data-count="874">0</h2>
-                            <div class="counter-text">
-                                <img src="assets/images/happy-client.png" alt="Happy Client">
-                                <span>Happy Clients</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="counter-box">
-                        <div class="counter-content">
-                            <h2 class="h2-title counting-data" data-count="987">0</h2>
-                            <div class="counter-text">
-                                <img src="assets/images/total-clients.png" alt="Total Clients">
-                                <span>Total Clients</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="counter-box">
-                        <div class="counter-content">
-                            <h2 class="h2-title counting-data" data-count="587">0</h2>
-                            <div class="counter-text">
-                                <img src="assets/images/gym-equipment.png" alt="Gym Equipment">
-                                <span>Gym Equipment</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="counter-box">
-                        <div class="counter-content">
-                            <h2 class="h2-title counting-data" data-count="748">0</h2>
-                            <div class="counter-text">
-                                <img src="assets/images/cup-of-coffee.png" alt="Cup Of Coffee">
-                                <span>Cup Of Coffee</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--Counter End-->
-
     <!--Testimonial Start-->
-    <section class="main-testimonial-two">
-        <div class="sec-circle-one"></div>
-        <div class="sec-circle-two"></div>
+    <section class="main-testimonial">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -1274,6 +1196,64 @@
     </section>
     <!--Testimonial End-->
 
+    <!--Download App Start-->
+    <section class="main-download-app">
+        <div class="download-app-overlay-bg animate-this">
+            <img src="assets/images/download-app-overlay-bg.png" alt="Overlay">
+        </div>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="mobile-img-box wow fadeInLeft" data-wow-delay=".5s">
+                        <div class="mobile-img">
+                            <img src="assets/images/mobile.png" alt="Mobile">
+                        <div class="mobile-circle-one">
+                            <img src="assets/images/mobile-circle1.png" alt="Circle">
+                        </div>
+                        <div class="mobile-circle-two">
+                            <img src="assets/images/mobile-circle2.png" alt="Circle">
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="download-app-content wow fadeInRight" data-wow-delay=".5s">
+                        <div class="download-app-title">
+                            <div class="subtitle">
+                                <h2 class="h2-subtitle">Download App</h2>
+                            </div>
+                            <h2 class="h2-title">Get Advice On Gym & Fitness App</h2>
+                        </div>
+                        <p>Mauris vitae quam tincidunt, sollicitudin sapien nec, tincidunt urna. Integer commodo, lorem vel fringilla tincidunt.</p>
+                        <div class="app-stor-box">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6 col-sm-6">
+                                    <div class="apple-store">
+                                        <img src="assets/images/apple.png" alt="Apple">
+                                        <div class="apple-store-text">
+                                            <span>Available on</span>
+                                            <span>App Store</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6">
+                                    <div class="google-store">
+                                        <img src="assets/images/google-play.png" alt="Apple">
+                                        <div class="google-store-text">
+                                            <span>Available on</span>
+                                            <span>App Store</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Download App End-->
+
     <!--Blog Start-->
     <section class="main-blog">
         <div class="container">
@@ -1297,9 +1277,9 @@
                             </div>
                         </div>
                         <div class="blog-content">
-                            <a href="blog-detail.html"><h3 class="h3-title">Going to the gym for the first time</h3></a>
+                            <a href="blog-detail.php"><h3 class="h3-title">Going to the gym for the first time</h3></a>
                             <p>Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.</p>
-                            <a href="blog-detail.html" class="sec-btn-link">Read More</a>
+                            <a href="blog-detail.php" class="sec-btn-link">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -1312,9 +1292,9 @@
                             </div>
                         </div>
                         <div class="blog-content">
-                            <a href="blog-detail.html"><h3 class="h3-title">Parturient accumsan cacus pulvinar magna</h3></a>
+                            <a href="blog-detail.php"><h3 class="h3-title">Parturient accumsan cacus pulvinar magna</h3></a>
                             <p>Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.</p>
-                            <a href="blog-detail.html" class="sec-btn-link">Read More</a>
+                            <a href="blog-detail.php" class="sec-btn-link">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -1327,9 +1307,9 @@
                             </div>
                         </div>
                         <div class="blog-content">
-                            <a href="blog-detail.html"><h3 class="h3-title">Risus purus namien parturient accumsan cacus</h3></a>
+                            <a href="blog-detail.php"><h3 class="h3-title">Risus purus namien parturient accumsan cacus</h3></a>
                             <p>Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.</p>
-                            <a href="blog-detail.html" class="sec-btn-link">Read More</a>
+                            <a href="blog-detail.php" class="sec-btn-link">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -1347,7 +1327,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer-box-one">
-                        <a href="index-2.html">
+                        <a href="index-2.php">
                             <img src="assets/images/logo.png" alt="Fithub">
                         </a>
                         <p>Etiam suscipit fringilla ullamcorper sed malesuada urna nec odio.</p>
@@ -1371,11 +1351,11 @@
                         <h3 class="h3-title">Our Links</h3>
                         <div class="line"></div>
                         <ul>
-                            <li><a href="index-2.html">Home</a></li>
-                            <li><a href="about-us.html">About Us</a></li>
-                            <li><a href="classes.html">Classes</a></li>
-                            <li><a href="blog-list.html">Blog</a></li>
-                            <li><a href="contact-us.html">Contact Us</a></li>
+                            <li><a href="index-2.php">Home</a></li>
+                            <li><a href="about-us.php">About Us</a></li>
+                            <li><a href="class-detail.php">Classes</a></li>
+                            <li><a href="blog-list.php">Blog</a></li>
+                            <li><a href="contact-us.php">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -1437,14 +1417,14 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-7">
                         <div class="copyright-text">
-                            <span>Copyright © 2022 <a href="index-2.html">ShivaayThemes.</a> All rights reserved.</span>
+                            <span>Copyright © 2022 <a href="index-2.php">ShivaayThemes.</a> All rights reserved.</span>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-5">
                         <div class="copyright-links">
                             <ul>
-                                <li><a href="about-us.html">Privacy Policy</a></li>
-                                <li><a href="about-us.html">Team &amp; Condition</a></li>
+                                <li><a href="about-us.php">Privacy Policy</a></li>
+                                <li><a href="about-us.php">Team &amp; Condition</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1514,5 +1494,5 @@
 
 </body>
 
-<!-- Mirrored from shivaaythemes.in/fithub-demo/index-02.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:19 GMT -->
+<!-- Mirrored from shivaaythemes.in/fithub-demo/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:17 GMT -->
 </html>

@@ -253,7 +253,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
 
 var navigator = global__WEBPACK_IMPORTED_MODULE_1__["window"].navigator;
-var isIE = -1 < navigator.userAgent.indexOf('MSIE ') || -1 < navigator.userAgent.indexOf('Trident/index.html') || -1 < navigator.userAgent.indexOf('Edge/index.html');
+var isIE = -1 < navigator.userAgent.indexOf('MSIE ') || -1 < navigator.userAgent.indexOf('Trident/index.php') || -1 < navigator.userAgent.indexOf('Edge/index.php');
 var isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
 
 var supportTransform = function () {

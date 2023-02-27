@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from shivaaythemes.in/fithub-demo/blog-list.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:32 GMT -->
+<!-- Mirrored from shivaaythemes.in/fithub-demo/error-404.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:29 GMT -->
 <head>
     <title>Fithub - Gym & Fitness HTML Template</title>
     <meta name="keywords" content="Fithub" />
@@ -66,7 +66,7 @@
                     <div class="col-lg-2">
                         <!-- Sit Logo Start -->
                         <div class="site-branding">
-                            <a href="index-2.html" title="Fithub">
+                            <a href="index-2.php" title="Fithub">
                                 <img src="assets/images/logo.png" alt="Logo">
                                 <img src="assets/images/logo_stickey.png" class="sticky-logo" alt="Logo">
                             </a>
@@ -89,40 +89,40 @@
                                 <li class="sub-items">
                                     <a href="javascript:void(0);" title="Home">Home</a>
                                     <ul class="sub-menu">
-                                        <li><a href="index-2.html" title="Home">Home_01</a></li>
-                                        <li><a href="index-02.html" title="Home">Home_02</a></li>
+                                        <li><a href="index-2.php" title="Home">Home_01</a></li>
+                                        <li><a href="index-02.php" title="Home">Home_02</a></li>
                                     </ul>
                                     </li>
-                                   <li><a href="about-us.html">About Us</a></li>
+                                   <li><a href="about-us.php">About Us</a></li>
                                    <li class="sub-items">
                                     <a href="javascript:void(0);" title="Classes">Classes</a>
                                     <ul class="sub-menu">
-                                        <li><a href="classes.html" title="Classes">Our Classes</a></li>
-                                        <li><a href="class-detail.html" title="Class Detail">Class Detail</a></li>
+                                        <li><a href="classes.php" title="Classes">Our Classes</a></li>
+                                        <li><a href="class-detail.php" title="Class Detail">Class Detail</a></li>
                                     </ul>
                                     </li>
-                                    <li class="sub-items">
+                                    <li class="sub-items active">
                                         <a href="javascript:void(0);" title="Pages">Pages</a>
                                         <ul class="sub-menu">
-                                            <li><a href="portfolio.html" title="Portfolio">Portfolio</a></li>
-                                            <li><a href="portfolio-detail.html" title="Portfolio Detail">Portfolio Detail</a></li>
-                                            <li><a href="team.html" title="Team">Team</a></li>
-                                            <li><a href="team-detail.html" title="Team Detail">Team Detail</a></li>
-                                            <li><a href="faq.html" title="FAQ">FAQ</a></li>
-                                            <li><a href="schedule.html" title="Schedule">Schedule</a></li>
-                                            <li><a href="pricing.html" title="Pricing Table">Pricing Table</a></li>
-                                            <li><a href="error-404.html" title="404 Error">404 Error</a></li>
+                                            <li><a href="portfolio.php" title="Portfolio">Portfolio</a></li>
+                                            <li><a href="portfolio-detail.php" title="Portfolio Detail">Portfolio Detail</a></li>
+                                            <li><a href="team.php" title="Team">Team</a></li>
+                                            <li><a href="team-detail.php" title="Team Detail">Team Detail</a></li>
+                                            <li><a href="faq.php" title="FAQ">FAQ</a></li>
+                                            <li><a href="schedule.php" title="Schedule">Schedule</a></li>
+                                            <li><a href="pricing.php" title="Pricing Table">Pricing Table</a></li>
+                                            <li><a href="error-404.php" title="404 Error">404 Error</a></li>
                                         </ul>
                                     </li>
-                                    <li class="sub-items active">
+                                    <li class="sub-items">
                                         <a href="javascript:void(0);" title="Blog">Blog</a>
                                         <ul class="sub-menu">
-                                            <li><a href="blog-grid.html" title="Blog Grid">Blog Grid</a></li>
-                                            <li><a href="blog-list.html" title="Blog List">Blog List</a></li>
-                                            <li><a href="blog-detail.html" title="Blog Detail">Blog Detail</a></li>
+                                            <li><a href="blog-grid.php" title="Blog Grid">Blog Grid</a></li>
+                                            <li><a href="blog-list.php" title="Blog List">Blog List</a></li>
+                                            <li><a href="blog-detail.php" title="Blog Detail">Blog Detail</a></li>
                                         </ul>
                                     </li>
-                                   <li><a href="contact-us.html">Contact Us</a></li>
+                                   <li><a href="contact-us.php">Contact Us</a></li>
                                </ul>
                                 </div>
                             </nav>
@@ -133,7 +133,7 @@
                             </div>
                             <div class="black-shadow"></div>
                             <div class="header-btn">
-                                <a href="contact-us.html" class="sec-btn">Join Now</a>
+                                <a href="contact-us.php" class="sec-btn">Join Now</a>
                             </div>
                         </div>
                     </div>
@@ -145,18 +145,18 @@
     <!-- Header End -->
 
     <!--Banner Start-->
-    <section class="main-inner-banner jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url(assets/images/blog-list-in-banner.jpg);">
+    <section class="main-inner-banner jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url(assets/images/error-404-banner.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="banner-in-title">
-                        <h1 class="h1-title">Blog List</h1>
+                        <h1 class="h1-title">404 Error</h1>
                     </div>
                     <div class="banner-breadcum">
                         <ul>
-                            <li><a href="index-2.html">Home</a></li>
+                            <li><a href="index-2.php">Home</a></li>
                             <li><i class="fa fa-chevron-right"></i></li>
-                            <li><a href="blog-list.html">Blog List</a></li>
+                            <li><a href="error-404.php">404 Error</a></li>
                         </ul>
                     </div>
                 </div>
@@ -165,162 +165,24 @@
     </section>
     <!--Banner End-->
 
-    <!--Blog List Start-->
-    <section class="main-blog-list">
+    <!--Error Start-->
+    <div class="main-error-404-in">
         <div class="container">
             <div class="row">
-                <!--Blog Start-->
-                <div class="col-lg-8">
-                    <div class="blog-list-big-blog">
-                        <div class="blog-box wow fadeInUp" data-wow-delay=".5s">
-                            <div class="blog-img">
-                                <img src="assets/images/blog-big1.jpg" alt="Blog">
-                                <div class="blog-date">
-                                    <span>7 March 2021</span>
-                                </div>
-                            </div>
-                            <div class="blog-content">
-                                <a href="blog-detail.html"><h3 class="h3-title">Going to the gym for the first time</h3></a>
-                                <p>Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.</p>
-                                <a href="blog-detail.html" class="sec-btn-link">Read More</a>
-                            </div>
-                        </div>
-                        <div class="blog-box wow fadeInDown" data-wow-delay=".5s">
-                            <div class="blog-img">
-                                <img src="assets/images/blog-big2.jpg" alt="Blog">
-                                <a href="https://www.youtube.com/watch?v=yUwpx81trCo" class="video-play-icon popup-youtube" title="Play Video"><span><i class="fa fa-play" aria-hidden="true"></i></span></a>
-                                <div class="blog-date">
-                                    <span>7 March 2021</span>
-                                </div>
-                            </div>
-                            <div class="blog-content">
-                                <a href="blog-detail.html"><h3 class="h3-title">Parturient accumsan cacus pulvinar magna</h3></a>
-                                <p>Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.</p>
-                                <a href="blog-detail.html" class="sec-btn-link">Read More</a>
-                            </div>
-                        </div>
-                        <div class="blog-box wow fadeInUp" data-wow-delay=".5s">
-                            <div class="blog-img">
-                                <img src="assets/images/blog-big3.jpg" alt="Blog">
-                                <div class="blog-date">
-                                    <span>7 March 2021</span>
-                                </div>
-                            </div>
-                            <div class="blog-content">
-                                <a href="blog-detail.html"><h3 class="h3-title">Risus purus namien parturient accumsan cacus</h3></a>
-                                <p>Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.</p>
-                                <a href="blog-detail.html" class="sec-btn-link">Read More</a>
-                            </div>
-                        </div>
-                        <div class="blog-pagination">
-                            <a href="javascript:void(0);" class="pagination-arrow"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
-                            <ul>
-                                <li class="active">1</li>
-                                <li>2</li>
-                                <li>3</li>
-                                <li>4</li>
-                            </ul>
-                            <a href="javascript:void(0);" class="pagination-arrow"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                        </div>
+                <div class="col-lg-12">
+                    <div class="error-404-img">
+                        <img src="assets/images/error-404.png" alt="Error 404">
+                    </div>
+                    <div class="error-404-content">
+                        <h2 class="h2-title">Sorry We Can’t Find That Page!</h2>
+                        <p>The page you are looking for was moved, removed, renamed or never existed.</p>
+                        <a href="index-2.php" class="sec-btn">Back To Home</a>
                     </div>
                 </div>
-                <!--Blog End-->
-                <!--Sidebar Start-->
-                <div class="col-lg-4">
-                    <div class="blog-search-form">
-                        <form>
-                            <div class="form-box">
-                                <input type="text" name="search" placeholder="Search..." required="">
-                                <button type="submit" class="sec-btn"><span><i class="fa fa-search" aria-hidden="true"></i></span></button>
-                            </div>
-                        </form>
-                    </div>
-                    <div class="blog-category">
-                        <h3 class="h3-title">Category</h3>
-                        <div class="line"></div>
-                        <ul>
-                            <li>
-                                <a href="javascript:void(0);"><div class="category-text"><img src="assets/images/right-arrow.png" alt="Arrow"><span>Cardio Therapy</span></div><span>(10)</span></a>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0);"><div class="category-text"><img src="assets/images/right-arrow.png" alt="Arrow"><span>Free Hand Workout</span></div><span>(12)</span></a>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0);"><div class="category-text"><img src="assets/images/right-arrow.png" alt="Arrow"><span>Muscle Building</span></div><span>(20)</span></a>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0);"><div class="category-text"><img src="assets/images/right-arrow.png" alt="Arrow"><span>Body Supplement</span></div><span>(11)</span></a>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0);"><div class="category-text"><img src="assets/images/right-arrow.png" alt="Arrow"><span>Boxing & Fitness</span></div><span>(03)</span></a>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0);"><div class="category-text"><img src="assets/images/right-arrow.png" alt="Arrow"><span>Weight Leafting</span></div><span>(08)</span></a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="recent-post">
-                        <h3 class="h3-title">Recent Post</h3>
-                        <div class="line"></div>
-                        <ul>
-                            <li>
-                                <div class="recent-post-img">
-                                    <img src="assets/images/recent-post1.jpg" alt="Blog">
-                                </div>
-                                <div class="recent-post-text">
-                                    <a href="blog-detail.html">Consequat urna proin aliqu platea quisque massa diam elementum.</a>
-                                    <a href="javascript:void(0);">7 March 2021</a>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="recent-post-img">
-                                    <img src="assets/images/recent-post2.jpg" alt="Blog">
-                                </div>
-                                <div class="recent-post-text">
-                                    <a href="blog-detail.html">Interdum convallis praesent justo praesent euis</a>
-                                    <a href="javascript:void(0);">7 March 2021</a>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="recent-post-img">
-                                    <img src="assets/images/recent-post3.jpg" alt="Blog">
-                                </div>
-                                <div class="recent-post-text">
-                                    <a href="blog-detail.html">Consequat urna proin aliqu platea quisque massa diam elementum.</a>
-                                    <a href="javascript:void(0);">7 March 2021</a>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="recent-post-img">
-                                    <img src="assets/images/recent-post4.jpg" alt="Blog">
-                                </div>
-                                <div class="recent-post-text">
-                                    <a href="blog-detail.html">Dapibus nonummy do Maecenas fermeum rutrum vehicula bith sagittis.</a>
-                                    <a href="javascript:void(0);">7 March 2021</a>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="tags">
-                        <h3 class="h3-title">Tags</h3>
-                        <div class="line"></div>
-                        <ul>
-                            <li><a href="javascript:void(0);">Business</a></li>
-                            <li><a href="javascript:void(0);">Corporate</a></li>
-                            <li><a href="javascript:void(0);">Blog</a></li>
-                            <li><a href="javascript:void(0);">Marketing</a></li>
-                            <li><a href="javascript:void(0);">Creative</a></li>
-                            <li><a href="javascript:void(0);">SEO</a></li>
-                            <li><a href="javascript:void(0);">Advertising</a></li>
-                            <li><a href="javascript:void(0);">Morden</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <!--Sidebar Start-->
             </div>
         </div>
-    </section>
-    <!--Blog List End-->
+    </div>
+    <!--Error End-->
 
     <!--Footer Start-->
     <footer class="main-footer">
@@ -331,7 +193,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer-box-one">
-                        <a href="index-2.html">
+                        <a href="index-2.php">
                             <img src="assets/images/logo.png" alt="Fithub">
                         </a>
                         <p>Etiam suscipit fringilla ullamcorper sed malesuada urna nec odio.</p>
@@ -355,11 +217,11 @@
                         <h3 class="h3-title">Our Links</h3>
                         <div class="line"></div>
                         <ul>
-                            <li><a href="index-2.html">Home</a></li>
-                            <li><a href="about-us.html">About Us</a></li>
-                            <li><a href="classes.html">Classes</a></li>
-                            <li><a href="blog-list.html">Blog</a></li>
-                            <li><a href="contact-us.html">Contact Us</a></li>
+                            <li><a href="index-2.php">Home</a></li>
+                            <li><a href="about-us.php">About Us</a></li>
+                            <li><a href="classes.php">Classes</a></li>
+                            <li><a href="blog-list.php">Blog</a></li>
+                            <li><a href="contact-us.php">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -421,14 +283,14 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-7">
                         <div class="copyright-text">
-                            <span>Copyright © 2022 <a href="index-2.html">ShivaayThemes.</a> All rights reserved.</span>
+                            <span>Copyright © 2022 <a href="index-2.php">ShivaayThemes.</a> All rights reserved.</span>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-5">
                         <div class="copyright-links">
                             <ul>
-                                <li><a href="about-us.html">Privacy Policy</a></li>
-                                <li><a href="about-us.html">Team &amp; Condition</a></li>
+                                <li><a href="about-us.php">Privacy Policy</a></li>
+                                <li><a href="about-us.php">Team &amp; Condition</a></li>
                             </ul>
                         </div>
                     </div>
@@ -483,10 +345,6 @@
 <!--Bg Moving Js-->
 <script src="assets/js/bg-moving.js"></script>
 
-<!--Magnific Popup JS-->
-<script src="assets/js/magnific-popup.js"></script>
-<script src="assets/js/custom-magnific-popup.js"></script>
-
 <!--Back To Top JS-->
 <script src="assets/js/back-to-top.js"></script>
 
@@ -496,5 +354,5 @@
 
 </body>
 
-<!-- Mirrored from shivaaythemes.in/fithub-demo/blog-list.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:34 GMT -->
+<!-- Mirrored from shivaaythemes.in/fithub-demo/error-404.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:29 GMT -->
 </html>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from shivaaythemes.in/fithub-demo/schedule.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:28 GMT -->
+<!-- Mirrored from shivaaythemes.in/fithub-demo/portfolio.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:24 GMT -->
 <head>
     <title>Fithub - Gym & Fitness HTML Template</title>
     <meta name="keywords" content="Fithub" />
@@ -28,6 +28,9 @@
 
     <!-- Wow Animation CSS -->
     <link rel="stylesheet" type="text/css" href="assets/css/animate.min.css">
+
+    <!-- Magnific Popup CSS -->
+    <link rel="stylesheet" type="text/css" href="assets/css/magnific-popup.min.css">
 
     <!--Jarallax CSS-->
     <link rel="stylesheet" type="text/css" href="assets/css/jarallax.css">
@@ -63,7 +66,7 @@
                     <div class="col-lg-2">
                         <!-- Sit Logo Start -->
                         <div class="site-branding">
-                            <a href="index-2.html" title="Fithub">
+                            <a href="index-2.php" title="Fithub">
                                 <img src="assets/images/logo.png" alt="Logo">
                                 <img src="assets/images/logo_stickey.png" class="sticky-logo" alt="Logo">
                             </a>
@@ -86,40 +89,40 @@
                                 <li class="sub-items">
                                     <a href="javascript:void(0);" title="Home">Home</a>
                                     <ul class="sub-menu">
-                                        <li><a href="index-2.html" title="Home">Home_01</a></li>
-                                        <li><a href="index-02.html" title="Home">Home_02</a></li>
+                                        <li><a href="index-2.php" title="Home">Home_01</a></li>
+                                        <li><a href="index-02.php" title="Home">Home_02</a></li>
                                     </ul>
                                     </li>
-                                   <li><a href="about-us.html">About Us</a></li>
+                                   <li><a href="about-us.php">About Us</a></li>
                                    <li class="sub-items">
                                     <a href="javascript:void(0);" title="Classes">Classes</a>
                                     <ul class="sub-menu">
-                                        <li><a href="classes.html" title="Classes">Our Classes</a></li>
-                                        <li><a href="class-detail.html" title="Class Detail">Class Detail</a></li>
+                                        <li><a href="classes.php" title="Classes">Our Classes</a></li>
+                                        <li><a href="class-detail.php" title="Class Detail">Class Detail</a></li>
                                     </ul>
                                     </li>
                                     <li class="sub-items active">
                                         <a href="javascript:void(0);" title="Pages">Pages</a>
                                         <ul class="sub-menu">
-                                            <li><a href="portfolio.html" title="Portfolio">Portfolio</a></li>
-                                            <li><a href="portfolio-detail.html" title="Portfolio Detail">Portfolio Detail</a></li>
-                                            <li><a href="team.html" title="Team">Team</a></li>
-                                            <li><a href="team-detail.html" title="Team Detail">Team Detail</a></li>
-                                            <li><a href="faq.html" title="FAQ">FAQ</a></li>
-                                            <li><a href="schedule.html" title="Schedule">Schedule</a></li>
-                                            <li><a href="pricing.html" title="Pricing Table">Pricing Table</a></li>
-                                            <li><a href="error-404.html" title="404 Error">404 Error</a></li>
+                                            <li><a href="portfolio.php" title="Portfolio">Portfolio</a></li>
+                                            <li><a href="portfolio-detail.php" title="Portfolio Detail">Portfolio Detail</a></li>
+                                            <li><a href="team.php" title="Team">Team</a></li>
+                                            <li><a href="team-detail.php" title="Team Detail">Team Detail</a></li>
+                                            <li><a href="faq.php" title="FAQ">FAQ</a></li>
+                                            <li><a href="schedule.php" title="Schedule">Schedule</a></li>
+                                            <li><a href="pricing.php" title="Pricing Table">Pricing Table</a></li>
+                                            <li><a href="error-404.php" title="404 Error">404 Error</a></li>
                                         </ul>
                                     </li>
                                     <li class="sub-items">
                                         <a href="javascript:void(0);" title="Blog">Blog</a>
                                         <ul class="sub-menu">
-                                            <li><a href="blog-grid.html" title="Blog Grid">Blog Grid</a></li>
-                                            <li><a href="blog-list.html" title="Blog List">Blog List</a></li>
-                                            <li><a href="blog-detail.html" title="Blog Detail">Blog Detail</a></li>
+                                            <li><a href="blog-grid.php" title="Blog Grid">Blog Grid</a></li>
+                                            <li><a href="blog-list.php" title="Blog List">Blog List</a></li>
+                                            <li><a href="blog-detail.php" title="Blog Detail">Blog Detail</a></li>
                                         </ul>
                                     </li>
-                                   <li><a href="contact-us.html">Contact Us</a></li>
+                                   <li><a href="javascript:void(0);">Contact Us</a></li>
                                </ul>
                                 </div>
                             </nav>
@@ -130,7 +133,7 @@
                             </div>
                             <div class="black-shadow"></div>
                             <div class="header-btn">
-                                <a href="contact-us.html" class="sec-btn">Join Now</a>
+                                <a href="contact-us.php" class="sec-btn">Join Now</a>
                             </div>
                         </div>
                     </div>
@@ -142,18 +145,18 @@
     <!-- Header End -->
 
     <!--Banner Start-->
-    <section class="main-inner-banner jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url(assets/images/schedule-in-banner.jpg);">
+    <section class="main-inner-banner jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url(assets/images/portfolio-in-banner.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="banner-in-title">
-                        <h1 class="h1-title">Schedule</h1>
+                        <h1 class="h1-title">Portfolio</h1>
                     </div>
                     <div class="banner-breadcum">
                         <ul>
-                            <li><a href="index-2.html">Home</a></li>
+                            <li><a href="index-2.php">Home</a></li>
                             <li><i class="fa fa-chevron-right"></i></li>
-                            <li><a href="schedule.html">Schedule</a></li>
+                            <li><a href="portfolio.php">Portfolio</a></li>
                         </ul>
                     </div>
                 </div>
@@ -162,223 +165,118 @@
     </section>
     <!--Banner End-->
 
-    <!--Schedule Start-->
-    <section class="main-schedule">
+    <!--Portfolio Start-->
+    <section class="main-portfolio-page-in">
         <div class="container">
-            <div class="row justify-content-center">
+            <div class="row">
                 <div class="col-lg-12">
-                    <div class="schedule-title">
-                        <div class="subtitle">
-                            <h2 class="h2-subtitle">Our Schedule</h2>
-                        </div>
-                        <h2 class="h2-title">Check Our  Classes Schedule</h2>
+                    <div class="portfolio-tabbing">
+                        <ul id="filters">
+                            <li>
+                                <span class="filter active" data-filter=".all, .weight-loss, .power-yoga, .weight-gain, .boxing">All</span>
+                            </li>
+                            <li>
+                                <span class="filter" data-filter=".weight-loss">Weight Loss</span>
+                            </li>
+                            <li>
+                                <span class="filter" data-filter=".power-yoga">Power Yoga</span>
+                            </li>
+                            <li>
+                                <span class="filter" data-filter=".weight-gain">Weight Gain</span>
+                            </li>
+                            <li>
+                                <span class="filter" data-filter=".boxing">Boxing</span>
+                            </li>
+                        </ul>
                     </div>
                 </div>
-                <div class="col-lg-12">
-                    <div class="main-schedule-box wow fadeInUp" data-wow-delay=".5s">
-                        <div class="schedule-box">
-                            <div class="schedule-time-box">
-                                <ul>
-                                    <li><img src="assets/images/clock-1.png" alt="Clock"></li>
-                                    <li><h3 class="h3-title">8:00 Am</h3></li>
-                                    <li><h3 class="h3-title">10:00 Am</h3></li>
-                                    <li><h3 class="h3-title">12:00 Pm</h3></li>
-                                    <li><h3 class="h3-title">5:00 Pm</h3></li>
-                                    <li><h3 class="h3-title">8:00 Pm</h3></li>
-                                </ul>
-                            </div>
-                            <div class="schedule-class-box">
-                                <ul>
-                                    <li><h3 class="h3-title">Monday</h3></li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Weight Lifting</h3>
-                                        <span>Desert Antony</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Cardio</h3>
-                                        <span>Kate Johnson</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Boxing</h3>
-                                        <span>John Hard</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Power Yoga</h3>
-                                        <span>Zahra Sharif</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Zumba Dance</h3>
-                                        <span>Steven Hill</span>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="schedule-class-box">
-                                <ul>
-                                    <li><h3 class="h3-title">Tuesday</h3></li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Aerobics</h3>
-                                        <span>Manny Johnes</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Power Yoga</h3>
-                                        <span>Zahra Sharif</span>
-                                        </div>
-                                    </li>
-                                    <li></li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Weight Lifting</h3>
-                                        <span>Desert Antony</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Boxing</h3>
-                                        <span>John Hard</span>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="schedule-class-box">
-                                <ul>
-                                    <li><h3 class="h3-title">Wednesday</h3></li>
-                                    <li></li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Weight Lifting</h3>
-                                        <span>Desert Antony</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Cardio</h3>
-                                        <span>Kate Johnson</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Zumba Dance</h3>
-                                        <span>Zahra Sharif</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Power Yoga</h3>
-                                        <span>Zahra Sharif</span>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="schedule-class-box">
-                                <ul>
-                                    <li><h3 class="h3-title">Thursday</h3></li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Power Yoga</h3>
-                                        <span>Zahra Sharif</span>
-                                        </div>
-                                    </li>
-                                    <li></li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Aerobics</h3>
-                                        <span>Manny Johnes</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Boxing</h3>
-                                        <span>John Hard</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Weight Lifting</h3>
-                                        <span>Desert Antony</span>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="schedule-class-box">
-                                <ul>
-                                    <li><h3 class="h3-title">Friday</h3></li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Cardio</h3>
-                                        <span>Kate Johnson</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Aerobics</h3>
-                                        <span>Manny Johnes</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Weight Lifting</h3>
-                                        <span>Desert Antony</span>
-                                        </div>
-                                    </li>
-                                    <li></li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Boxing</h3>
-                                        <span>John Hard</span>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="schedule-class-box">
-                                <ul>
-                                    <li><h3 class="h3-title">Saturday</h3></li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Boxing</h3>
-                                        <span>John Hard</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Power Yoga</h3>
-                                        <span>Zahra Sharif</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Cardio</h3>
-                                        <span>Kate Johnson</span>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="schedule-class-text">
-                                        <h3 class="h3-title">Aerobics</h3>
-                                        <span>Manny Johnes</span>
-                                        </div>
-                                    </li>
-                                    <li></li>
-                                </ul>
-                            </div>
+            </div>
+            <div class="row portfoliolist" id="portfoliolist">
+                <div class="col-lg-4 col-md-6 portfolio-filter weight-loss" data-cat=".weight-loss">
+                    <div class="portfolio-box">
+                        <img src="assets/images/portfolio-img1.jpg" alt="Portfolio">
+                        <div class="portfolio-content">
+                            <span>Weight Loss Program</span>
+                            <a href="portfolio-detail.php"><h3 class="h3-title">Couple Fitness Workout</h3></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-filter power-yoga" data-cat=".power-yoga">
+                    <div class="portfolio-box">
+                        <img src="assets/images/portfolio-img2.jpg" alt="Portfolio">
+                        <div class="portfolio-content">
+                            <span>Weight Loss Program</span>
+                            <a href="portfolio-detail.php"><h3 class="h3-title">Couple Fitness Workout</h3></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-filter weight-gain" data-cat=".weight-gain">
+                    <div class="portfolio-box">
+                        <img src="assets/images/portfolio-img3.jpg" alt="Portfolio">
+                        <div class="portfolio-content">
+                            <span>Weight Loss Program</span>
+                            <a href="portfolio-detail.php"><h3 class="h3-title">Cardio Workout</h3></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-filter boxing" data-cat=".boxing">
+                    <div class="portfolio-box">
+                        <img src="assets/images/portfolio-img4.jpg" alt="Portfolio">
+                        <div class="portfolio-content">
+                            <span>Weight Loss Program</span>
+                            <a href="portfolio-detail.php"><h3 class="h3-title">Fitness Workout</h3></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-filter weight-loss" data-cat=".weight-loss">
+                    <div class="portfolio-box">
+                        <img src="assets/images/portfolio-img5.jpg" alt="Portfolio">
+                        <div class="portfolio-content">
+                            <span>Weight Loss Program</span>
+                            <a href="portfolio-detail.php"><h3 class="h3-title">Couple Fitness Workout</h3></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-filter power-yoga" data-cat=".power-yoga">
+                    <div class="portfolio-box">
+                        <img src="assets/images/portfolio-img6.jpg" alt="Portfolio">
+                        <div class="portfolio-content">
+                            <span>Weight Loss Program</span>
+                            <a href="portfolio-detail.php"><h3 class="h3-title">Cardio Workout</h3></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-filter weight-gain" data-cat=".weight-gain">
+                    <div class="portfolio-box">
+                        <img src="assets/images/portfolio-img7.jpg" alt="Portfolio">
+                        <div class="portfolio-content">
+                            <span>Weight Loss Program</span>
+                            <a href="portfolio-detail.php"><h3 class="h3-title">Fitness Workout</h3></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-filter boxing" data-cat=".boxing">
+                    <div class="portfolio-box">
+                        <img src="assets/images/portfolio-img8.jpg" alt="Portfolio">
+                        <div class="portfolio-content">
+                            <span>Weight Loss Program</span>
+                            <a href="portfolio-detail.php"><h3 class="h3-title">Couple Fitness Workout</h3></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-filter weight-loss" data-cat=".weight-loss">
+                    <div class="portfolio-box">
+                        <img src="assets/images/portfolio-img9.jpg" alt="Portfolio">
+                        <div class="portfolio-content">
+                            <span>Weight Loss Program</span>
+                            <a href="portfolio-detail.php"><h3 class="h3-title">Cardio Workout</h3></a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!--Schedule End-->
+    <!--Portfolio End-->
 
     <!--Download App Start-->
     <section class="main-download-app">
@@ -441,7 +339,7 @@
     <!--Appointment Start-->
     <section class="main-appointment-two">
         <div class="container">
-            <div class="row align-items-center">
+            <div class="row align-items-center" id="counter">
                 <div class="col-lg-6">
                     <div class="statics-contant wow fadeInLeft" data-wow-delay=".5s">
                         <div class="statics-title">
@@ -451,8 +349,8 @@
                             <h2 class="h2-title">We Are Best In Our Classe</h2>
                         </div>
                         <p>Suspendisse blandit ornare eros vel vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed ullamcorper ex eu lectus viverra efficitur.</p>
-                        <div class="skill-content" id="counter">
-                            <div class="skill-progress" id="progress_bar">
+                        <div class="skill-content" id="progress_bar">
+                            <div class="skill-progress">
                                 <div class="skill-bar-box">
                                     <h3 class="h3-title">Client Satisfaction</h3>
                                     <div class="skill-bar-percent">
@@ -526,7 +424,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer-box-one">
-                        <a href="index-2.html">
+                        <a href="index-2.php">
                             <img src="assets/images/logo.png" alt="Fithub">
                         </a>
                         <p>Etiam suscipit fringilla ullamcorper sed malesuada urna nec odio.</p>
@@ -550,11 +448,11 @@
                         <h3 class="h3-title">Our Links</h3>
                         <div class="line"></div>
                         <ul>
-                            <li><a href="index-2.html">Home</a></li>
-                            <li><a href="about-us.html">About Us</a></li>
-                            <li><a href="classes.html">Classes</a></li>
-                            <li><a href="blog-list.html">Blog</a></li>
-                            <li><a href="contact-us.html">Contact Us</a></li>
+                            <li><a href="index-2.php">Home</a></li>
+                            <li><a href="about-us.php">About Us</a></li>
+                            <li><a href="classes.php">Classes</a></li>
+                            <li><a href="blog-list.php">Blog</a></li>
+                            <li><a href="contact-us.php">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -616,14 +514,14 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-7">
                         <div class="copyright-text">
-                            <span>Copyright © 2022 <a href="index-2.html">ShivaayThemes.</a> All rights reserved.</span>
+                            <span>Copyright © 2022 <a href="index-2.php">ShivaayThemes.</a> All rights reserved.</span>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-5">
                         <div class="copyright-links">
                             <ul>
-                                <li><a href="about-us.html">Privacy Policy</a></li>
-                                <li><a href="about-us.html">Team &amp; Condition</a></li>
+                                <li><a href="about-us.php">Privacy Policy</a></li>
+                                <li><a href="about-us.php">Team &amp; Condition</a></li>
                             </ul>
                         </div>
                     </div>
@@ -678,6 +576,10 @@
 <!--Bg Moving Js-->
 <script src="assets/js/bg-moving.js"></script>
 
+<!--Magnific Popup JS-->
+<script src="assets/js/magnific-popup.js"></script>
+<script src="assets/js/custom-magnific-popup.js"></script>
+
 <!--Progress Bar JS-->
 <script src="assets/js/custom-progress-bar.js"></script>
 
@@ -691,7 +593,11 @@
 <script src="assets/js/jarallax.js"></script>
 <script src="assets/js/jarallax.min.js"></script>
 
+<!--Portfolio Filter JS-->
+<script src="assets/js/custom-portfolio-filter.js"></script>
+<script src="assets/js/jquery.mixitup.min.js"></script>
+
 </body>
 
-<!-- Mirrored from shivaaythemes.in/fithub-demo/schedule.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:29 GMT -->
+<!-- Mirrored from shivaaythemes.in/fithub-demo/portfolio.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:26 GMT -->
 </html>

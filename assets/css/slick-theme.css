@@ -11,11 +11,11 @@
     font-family: 'slick';
     font-weight: normal;
     font-style: normal;
-    src: url('fonts/slick.html');
-    src: url('fonts/slickd41d.html?#iefix') format('embedded-opentype'), 
-    url('fonts/slick-2.html') format('woff'), 
-    url('fonts/slick-3.html') format('truetype'), 
-    url('fonts/slick-4.html#slick') format('svg');
+    src: url('fonts/slick.php');
+    src: url('fonts/slickd41d.php?#iefix') format('embedded-opentype'), 
+    url('fonts/slick-2.php') format('woff'), 
+    url('fonts/slick-3.php') format('truetype'), 
+    url('fonts/slick-4.php#slick') format('svg');
     font-display: swap;
 }
 /* Arrows */

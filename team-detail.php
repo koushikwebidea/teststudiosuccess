@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from shivaaythemes.in/fithub-demo/contact-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:36 GMT -->
+<!-- Mirrored from shivaaythemes.in/fithub-demo/team-detail.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:28 GMT -->
 <head>
     <title>Fithub - Gym & Fitness HTML Template</title>
     <meta name="keywords" content="Fithub" />
@@ -28,9 +28,6 @@
 
     <!-- Wow Animation CSS -->
     <link rel="stylesheet" type="text/css" href="assets/css/animate.min.css">
-
-    <!-- Magnific Popup CSS -->
-    <link rel="stylesheet" type="text/css" href="assets/css/magnific-popup.min.css">
 
     <!--Jarallax CSS-->
     <link rel="stylesheet" type="text/css" href="assets/css/jarallax.css">
@@ -66,7 +63,7 @@
                     <div class="col-lg-2">
                         <!-- Sit Logo Start -->
                         <div class="site-branding">
-                            <a href="index-2.html" title="Fithub">
+                            <a href="index-2.php" title="Fithub">
                                 <img src="assets/images/logo.png" alt="Logo">
                                 <img src="assets/images/logo_stickey.png" class="sticky-logo" alt="Logo">
                             </a>
@@ -89,40 +86,40 @@
                                 <li class="sub-items">
                                     <a href="javascript:void(0);" title="Home">Home</a>
                                     <ul class="sub-menu">
-                                        <li><a href="index-2.html" title="Home">Home_01</a></li>
-                                        <li><a href="index-02.html" title="Home">Home_02</a></li>
+                                        <li><a href="index-2.php" title="Home">Home_01</a></li>
+                                        <li><a href="index-02.php" title="Home">Home_02</a></li>
                                     </ul>
                                     </li>
-                                   <li><a href="about-us.html">About Us</a></li>
+                                   <li><a href="about-us.php">About Us</a></li>
                                    <li class="sub-items">
                                     <a href="javascript:void(0);" title="Classes">Classes</a>
                                     <ul class="sub-menu">
-                                        <li><a href="classes.html" title="Classes">Our Classes</a></li>
-                                        <li><a href="class-detail.html" title="Class Detail">Class Detail</a></li>
+                                        <li><a href="classes.php" title="Classes">Our Classes</a></li>
+                                        <li><a href="class-detail.php" title="Class Detail">Class Detail</a></li>
                                     </ul>
                                     </li>
-                                    <li class="sub-items">
+                                    <li class="sub-items active">
                                         <a href="javascript:void(0);" title="Pages">Pages</a>
                                         <ul class="sub-menu">
-                                            <li><a href="portfolio.html" title="Portfolio">Portfolio</a></li>
-                                            <li><a href="portfolio-detail.html" title="Portfolio Detail">Portfolio Detail</a></li>
-                                            <li><a href="team-detail.html" title="Team">Team</a></li>
-                                            <li><a href="team-detail.html" title="Team Detail">Team Detail</a></li>
-                                            <li><a href="faq.html" title="FAQ">FAQ</a></li>
-                                            <li><a href="schedule.html" title="Schedule">Schedule</a></li>
-                                            <li><a href="pricing.html" title="Pricing Table">Pricing Table</a></li>
-                                            <li><a href="error-404.html" title="404 Error">404 Error</a></li>
+                                            <li><a href="portfolio.php" title="Portfolio">Portfolio</a></li>
+                                            <li><a href="portfolio-detail.php" title="Portfolio Detail">Portfolio Detail</a></li>
+                                            <li><a href="team.php" title="Team">Team</a></li>
+                                            <li><a href="team-detail.php" title="Team Detail">Team Detail</a></li>
+                                            <li><a href="faq.php" title="FAQ">FAQ</a></li>
+                                            <li><a href="schedule.php" title="Schedule">Schedule</a></li>
+                                            <li><a href="pricing.php" title="Pricing Table">Pricing Table</a></li>
+                                            <li><a href="error-404.php" title="404 Error">404 Error</a></li>
                                         </ul>
                                     </li>
                                     <li class="sub-items">
                                         <a href="javascript:void(0);" title="Blog">Blog</a>
                                         <ul class="sub-menu">
-                                            <li><a href="blog-grid.html" title="Blog Grid">Blog Grid</a></li>
-                                            <li><a href="blog-list.html" title="Blog List">Blog List</a></li>
-                                            <li><a href="blog-detail.html" title="Blog Detail">Blog Detail</a></li>
+                                            <li><a href="blog-grid.php" title="Blog Grid">Blog Grid</a></li>
+                                            <li><a href="blog-list.php" title="Blog List">Blog List</a></li>
+                                            <li><a href="blog-detail.php" title="Blog Detail">Blog Detail</a></li>
                                         </ul>
                                     </li>
-                                   <li class="active"><a href="contact-us.html">Contact Us</a></li>
+                                   <li><a href="contact-us.php">Contact Us</a></li>
                                </ul>
                                 </div>
                             </nav>
@@ -133,7 +130,7 @@
                             </div>
                             <div class="black-shadow"></div>
                             <div class="header-btn">
-                                <a href="contact-us.html" class="sec-btn">Join Now</a>
+                                <a href="contact-us.php" class="sec-btn">Join Now</a>
                             </div>
                         </div>
                     </div>
@@ -145,18 +142,20 @@
     <!-- Header End -->
 
     <!--Banner Start-->
-    <section class="main-inner-banner jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url(assets/images/contact-us-in-banner.jpg);">
+    <section class="main-inner-banner jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%" style="background-image: url(assets/images/team-detail-in-banner.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="banner-in-title">
-                        <h1 class="h1-title">Contact Us</h1>
+                        <h1 class="h1-title">Kate Johnson</h1>
                     </div>
                     <div class="banner-breadcum">
                         <ul>
                             <li><a href="javascript:void(0);">Home</a></li>
                             <li><i class="fa fa-chevron-right"></i></li>
-                            <li><a href="javascript:void(0);">Contact Us</a></li>
+                            <li><a href="javascript:void(0);">Team</a></li>
+                            <li><i class="fa fa-chevron-right"></i></li>
+                            <li><a href="javascript:void(0);">Kate Johnson</a></li>
                         </ul>
                     </div>
                 </div>
@@ -165,94 +164,155 @@
     </section>
     <!--Banner End-->
 
-    <!--Contact Us Start-->
-    <section class="main-contact-in">
+    <!--Team Detail Start-->
+    <section class="main-team-detail-in">
         <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="get-in-touch-content wow fadeInLeft" data-wow-delay=".5s">
-                        <div class="get-in-touch-title">
-                            <div class="subtitle">
-                                <h2 class="h2-subtitle">Contact Us</h2>
-                            </div>
-                            <h2 class="h2-title">Get In Touch</h2>
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="team-img-box team-border-two wow fadeInUp" data-wow-delay=".5s">
+                        <div class="team-img">
+                            <img src="assets/images/trainer2-detail.jpg" alt="Trainer">
                         </div>
-                        <div class="get-in-touch-box">
-                            <div class="get-in-touch-icon">
-                                <img src="assets/images/email.png" alt="Email">
+                    </div>
+                    <div class="trainer-detail-info-box wow fadeInUp" data-wow-delay=".7s">
+                        <div class="trainer-detail-info-text-box">
+                            <div class="trainer-detail-info-text">
+                                <span>Joining Date:</span>
+                                <span>7 March, 2016</span>
                             </div>
-                            <div class="get-in-touch-text">
-                                <h3 class="h3-title">Email:</h3>
-                                <span>info@gmail.com</span>
-                            </div>
-                        </div>
-                        <div class="get-in-touch-box">
-                            <div class="get-in-touch-icon">
-                                <img src="assets/images/phone.png" alt="Email">
-                            </div>
-                            <div class="get-in-touch-text">
-                                <h3 class="h3-title">Call Now:</h3>
-                                <span>+91 987 3654 365</span>
+                            <div class="trainer-detail-info-text">
+                                <span>Experience:</span>
+                                <span>6 Years</span>
                             </div>
                         </div>
-                        <div class="get-in-touch-box">
-                            <div class="get-in-touch-icon">
-                                <img src="assets/images/location.png" alt="Email">
+                        <div class="trainer-detail-info-text-box two">
+                            <div class="trainer-detail-info-text">
+                                <span>Training:</span>
+                                <span>Fitness, Gym</span>
                             </div>
-                            <div class="get-in-touch-text mb-0">
-                                <h3 class="h3-title">Location:</h3>
-                                <span>13 Sunset Blvd Los Angeles, CA 90026, USA</span>
+                            <div class="trainer-detail-info-text">
+                                <span>Experience:</span>
+                                <ul>
+                                    <li><a href="javascript:void(0);"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a href="javascript:void(0);"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                    <li><a href="javascript:void(0);"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                </ul>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <div class="appointment-bg wow fadeInRight" data-wow-delay=".5s">
-                        <div class="appointment-title">
-                            <h2 class="h2-title">Get Appointment</h2>
+                <div class="col-lg-8">
+                    <div class="team-detail-content">
+                        <h2 class="h2-title">Kate Johnson</h2>
+                        <span>Fitness Trainer</span>
+                        <p>Nullam et luctus eros. Nam maximus quam non diam placerat, ac auctor mi ullamcorper. Sed vehicula leo a elementum interdum. Ut dignissim auctor quam vel eleifend. Phasellus posuere consectetur erat eget varius. Aliquam erat volutpat. Quisque ac interdum tellus.</p>
+                        <div class="line"></div>
+                        <div class="personal-skills" id="counter">
+                            <h3 class="h3-title">Personal Skills</h3>
                             <div class="line"></div>
-                        </div>
-                        <form>
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="form-box">
-                                        <input type="text" name="Full Name" class="form-input" placeholder="Full Name" required="">
-                                    </div>
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="form-box">
-                                        <input type="email" name="EmailAddress" class="form-input" placeholder="Email Address" required="">
-                                    </div>
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="form-box">
-                                        <input type="text" name="Phone No" class="form-input" placeholder="Phone No." required="">
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-box">
-                                        <textarea class="form-input" placeholder="Message..."></textarea>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="form-box mb-0">
-                                        <button type="submit" class="sec-btn"><span>Submit Now</span></button>
+                            <div class="row" id="progress_bar">
+                                <div class="col-lg-10">
+                                    <div class="skill-progress">
+                                        <div class="skill-bar-box">
+                                            <h3 class="h3-title">Weight Lifting</h3>
+                                            <div class="skill-bar-percent">
+                                                <h3 class="h3-title counting-data" data-count="90">0</h3><span>%</span>
+                                            </div>
+                                            <div class="skill-bar" data-width="90%">
+                                                <div class="skill-bar-inner"></div>
+                                            </div>
+                                        </div>
+                                        <div class="skill-bar-box">
+                                            <h3 class="h3-title">Fat Loss</h3>
+                                            <div class="skill-bar-percent">
+                                                <h3 class="h3-title counting-data" data-count="80">0</h3><span>%</span>
+                                            </div>
+                                            <div class="skill-bar" data-width="80%">
+                                                <div class="skill-bar-inner"></div>
+                                            </div>
+                                        </div>
+                                        <div class="skill-bar-box mb-0">
+                                            <h3 class="h3-title">Cardio Training</h3>
+                                            <div class="skill-bar-percent">
+                                                <h3 class="h3-title counting-data" data-count="70">0</h3><span>%</span>
+                                            </div>
+                                            <div class="skill-bar" data-width="70%">
+                                                <div class="skill-bar-inner"></div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </form>
+                        </div>
+                        <div class="line"></div>
+                        <div class="my-class">
+                            <h3 class="h3-title">My Classes</h3>
+                            <div class="line"></div>
+                            <div class="my-class-box">
+                                <div class="row">
+                                    <div class="col-lg-6 col-md-6">
+                                        <div class="class-box wow fadeInUp" data-wow-delay=".5s">
+                                            <div class="class-img">
+                                                <img src="assets/images/class-img1.jpg" alt="Class">
+                                            </div>
+                                            <div class="class-box-contant">
+                                                <div class="class-box-title">
+                                                    <div class="class-box-icon">
+                                                        <img src="assets/images/class-icon1.png" alt="Icon">
+                                                    </div>
+                                                    <a href="class-detail.php"><h3 class="h3-title">Weight Lifting<br>Classes</h3></a>
+                                                </div>
+                                                <p>Suspendisse nisi libero, cursus ac magna sit amet, fermentum imperdiet nisi.</p>
+                                                <div class="class-full">
+                                                    <div class="class-full-bar-box">
+                                                        <h3 class="h3-title">Class Full</h3>
+                                                        <div class="class-full-bar-percent">
+                                                            <h3 class="h3-title counting-data" data-count="85">0</h3><span>%</span>
+                                                        </div>
+                                                        <div class="skill-bar class-bar" data-width="85%">
+                                                            <div class="skill-bar-inner class-bar-in"></div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6">
+                                        <div class="class-box wow fadeInDown" data-wow-delay=".5s">
+                                            <div class="class-img">
+                                                <img src="assets/images/class-img2.jpg" alt="Class">
+                                            </div>
+                                            <div class="class-box-contant">
+                                                <div class="class-box-title">
+                                                    <div class="class-box-icon">
+                                                        <img src="assets/images/class-icon2.png" alt="Icon">
+                                                    </div>
+                                                    <a href="class-detail.php"><h3 class="h3-title">Cardio & Strenght<br>Classes</h3></a>
+                                                </div>
+                                                <p>Suspendisse nisi libero, cursus ac magna sit amet, fermentum imperdiet nisi.</p>
+                                                <div class="class-full">
+                                                    <div class="class-full-bar-box">
+                                                        <h3 class="h3-title">Class Full</h3>
+                                                        <div class="class-full-bar-percent">
+                                                            <h3 class="h3-title counting-data" data-count="70">0</h3><span>%</span>
+                                                        </div>
+                                                        <div class="skill-bar class-bar" data-width="70%">
+                                                            <div class="skill-bar-inner class-bar-in"></div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!--Contact Us End-->
-
-    <!--Map Start-->
-    <div class="main-contact-map-in">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d58345.8370356026!2d90.39051679999999!3d23.938690100000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1603517982898!5m2!1sen!2sbd" width="416" height="570" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-    </div>
-    <!--Map Emd-->
+    <!--Team Detail End-->
 
     <!--Footer Start-->
     <footer class="main-footer">
@@ -263,7 +323,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer-box-one">
-                        <a href="index-2.html">
+                        <a href="index-2.php">
                             <img src="assets/images/logo.png" alt="Fithub">
                         </a>
                         <p>Etiam suscipit fringilla ullamcorper sed malesuada urna nec odio.</p>
@@ -287,11 +347,11 @@
                         <h3 class="h3-title">Our Links</h3>
                         <div class="line"></div>
                         <ul>
-                            <li><a href="index-2.html">Home</a></li>
-                            <li><a href="about-us.html">About Us</a></li>
-                            <li><a href="classes.html">Classes</a></li>
-                            <li><a href="blog-list.html">Blog</a></li>
-                            <li><a href="contact-us.html">Contact Us</a></li>
+                            <li><a href="index-2.php">Home</a></li>
+                            <li><a href="about-us.php">About Us</a></li>
+                            <li><a href="classes.php">Classes</a></li>
+                            <li><a href="blog-list.php">Blog</a></li>
+                            <li><a href="contact-us.php">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -353,14 +413,14 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-7">
                         <div class="copyright-text">
-                            <span>Copyright © 2022 <a href="index-2.html">ShivaayThemes.</a> All rights reserved.</span>
+                            <span>Copyright © 2022 <a href="index-2.php">ShivaayThemes.</a> All rights reserved.</span>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-5">
                         <div class="copyright-links">
                             <ul>
-                                <li><a href="about-us.html">Privacy Policy</a></li>
-                                <li><a href="about-us.html">Team &amp; Condition</a></li>
+                                <li><a href="about-us.php">Privacy Policy</a></li>
+                                <li><a href="about-us.php">Team &amp; Condition</a></li>
                             </ul>
                         </div>
                     </div>
@@ -415,6 +475,12 @@
 <!--Bg Moving Js-->
 <script src="assets/js/bg-moving.js"></script>
 
+<!--Progress Bar JS-->
+<script src="assets/js/custom-progress-bar.js"></script>
+
+<!--Scroll Count JS-->
+<script src="assets/js/custom-scroll-count.js"></script>
+
 <!--Back To Top JS-->
 <script src="assets/js/back-to-top.js"></script>
 
@@ -424,5 +490,5 @@
 
 </body>
 
-<!-- Mirrored from shivaaythemes.in/fithub-demo/contact-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:36 GMT -->
+<!-- Mirrored from shivaaythemes.in/fithub-demo/team-detail.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:28 GMT -->
 </html>
