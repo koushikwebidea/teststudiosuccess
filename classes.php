@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from shivaaythemes.in/fithub-demo/classes.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:21 GMT -->
+<!-- Mirrored from shivaaythemes.in/fithub-demo/classes by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:21 GMT -->
 <head>
     <title>Fithub - Gym & Fitness HTML Template</title>
     <meta name="keywords" content="Fithub" />
@@ -66,7 +66,7 @@
                     <div class="col-lg-2">
                         <!-- Sit Logo Start -->
                         <div class="site-branding">
-                            <a href="index-2.php" title="Fithub">
+                            <a href="index-2" title="Fithub">
                                 <img src="assets/images/logo.png" alt="Logo">
                                 <img src="assets/images/logo_stickey.png" class="sticky-logo" alt="Logo">
                             </a>
@@ -89,40 +89,40 @@
                                 <li class="sub-items">
                                     <a href="javascript:void(0);" title="Home">Home</a>
                                     <ul class="sub-menu">
-                                        <li><a href="index-2.php" title="Home">Home_01</a></li>
-                                        <li><a href="index-02.php" title="Home">Home_02</a></li>
+                                        <li><a href="index-2" title="Home">Home_01</a></li>
+                                        <li><a href="index-02" title="Home">Home_02</a></li>
                                     </ul>
                                     </li>
-                                   <li><a href="about-us.php">About Us</a></li>
+                                   <li><a href="about-us">About Us</a></li>
                                    <li class="sub-items active">
                                     <a href="javascript:void(0);" title="Classes">Classes</a>
                                     <ul class="sub-menu">
-                                        <li><a href="classes.php" title="Classes">Our Classes</a></li>
-                                        <li><a href="class-detail.php" title="Class Detail">Class Detail</a></li>
+                                        <li><a href="classes" title="Classes">Our Classes</a></li>
+                                        <li><a href="class-detail" title="Class Detail">Class Detail</a></li>
                                     </ul>
                                     </li>
                                     <li class="sub-items">
                                         <a href="javascript:void(0);" title="Pages">Pages</a>
                                         <ul class="sub-menu">
-                                            <li><a href="portfolio.php" title="Portfolio">Portfolio</a></li>
-                                            <li><a href="portfolio-detail.php" title="Portfolio Detail">Portfolio Detail</a></li>
-                                            <li><a href="team.php" title="Team">Team</a></li>
-                                            <li><a href="team-detail.php" title="Team Detail">Team Detail</a></li>
-                                            <li><a href="faq.php" title="FAQ">FAQ</a></li>
-                                            <li><a href="schedule.php" title="Schedule">Schedule</a></li>
-                                            <li><a href="pricing.php" title="Pricing Table">Pricing Table</a></li>
-                                            <li><a href="error-404.php" title="404 Error">404 Error</a></li>
+                                            <li><a href="portfolio" title="Portfolio">Portfolio</a></li>
+                                            <li><a href="portfolio-detail" title="Portfolio Detail">Portfolio Detail</a></li>
+                                            <li><a href="team" title="Team">Team</a></li>
+                                            <li><a href="team-detail" title="Team Detail">Team Detail</a></li>
+                                            <li><a href="faq" title="FAQ">FAQ</a></li>
+                                            <li><a href="schedule" title="Schedule">Schedule</a></li>
+                                            <li><a href="pricing" title="Pricing Table">Pricing Table</a></li>
+                                            <li><a href="error-404" title="404 Error">404 Error</a></li>
                                         </ul>
                                     </li>
                                     <li class="sub-items">
                                         <a href="javascript:void(0);" title="Blog">Blog</a>
                                         <ul class="sub-menu">
-                                            <li><a href="blog-grid.php" title="Blog Grid">Blog Grid</a></li>
-                                            <li><a href="blog-list.php" title="Blog List">Blog List</a></li>
-                                            <li><a href="blog-detail.php" title="Blog Detail">Blog Detail</a></li>
+                                            <li><a href="blog-grid" title="Blog Grid">Blog Grid</a></li>
+                                            <li><a href="blog-list" title="Blog List">Blog List</a></li>
+                                            <li><a href="blog-detail" title="Blog Detail">Blog Detail</a></li>
                                         </ul>
                                     </li>
-                                   <li><a href="contact-us.php">Contact Us</a></li>
+                                   <li><a href="contact-us">Contact Us</a></li>
                                </ul>
                                 </div>
                             </nav>
@@ -133,7 +133,7 @@
                             </div>
                             <div class="black-shadow"></div>
                             <div class="header-btn">
-                                <a href="contact-us.php" class="sec-btn">Join Now</a>
+                                <a href="contact-us" class="sec-btn">Join Now</a>
                             </div>
                         </div>
                     </div>
@@ -154,9 +154,9 @@
                     </div>
                     <div class="banner-breadcum">
                         <ul>
-                            <li><a href="index-2.php">Home</a></li>
+                            <li><a href="index-2">Home</a></li>
                             <li><i class="fa fa-chevron-right"></i></li>
-                            <li><a href="classes.php">Classes</a></li>
+                            <li><a href="classes">Classes</a></li>
                         </ul>
                     </div>
                 </div>
@@ -179,7 +179,7 @@
                                 <div class="class-box-icon">
                                     <img src="assets/images/class-icon1.png" alt="Icon">
                                 </div>
-                                <a href="class-detail.php"><h3 class="h3-title">Weight Lifting<br>Classes</h3></a>
+                                <a href="class-detail"><h3 class="h3-title">Weight Lifting<br>Classes</h3></a>
                             </div>
                             <p>Suspendisse nisi libero, cursus ac magna sit amet, fermentum imperdiet nisi.</p>
                             <div class="class-full" id="progress_bar">
@@ -206,7 +206,7 @@
                                 <div class="class-box-icon">
                                     <img src="assets/images/class-icon2.png" alt="Icon">
                                 </div>
-                                <a href="class-detail.php"><h3 class="h3-title">Cardio & Strenght<br>Classes</h3></a>
+                                <a href="class-detail"><h3 class="h3-title">Cardio & Strenght<br>Classes</h3></a>
                             </div>
                             <p>Suspendisse nisi libero, cursus ac magna sit amet, fermentum imperdiet nisi.</p>
                             <div class="class-full">
@@ -233,7 +233,7 @@
                                 <div class="class-box-icon">
                                     <img src="assets/images/class-icon3.png" alt="Icon">
                                 </div>
-                                <a href="class-detail.php"><h3 class="h3-title">Power Yoga<br>Classes</h3></a>
+                                <a href="class-detail"><h3 class="h3-title">Power Yoga<br>Classes</h3></a>
                             </div>
                             <p>Suspendisse nisi libero, cursus ac magna sit amet, fermentum imperdiet nisi.</p>
                             <div class="class-full">
@@ -260,7 +260,7 @@
                                 <div class="class-box-icon">
                                     <img src="assets/images/class-icon4.png" alt="Icon">
                                 </div>
-                                <a href="class-detail.php"><h3 class="h3-title">Power Yoga<br>Classes</h3></a>
+                                <a href="class-detail"><h3 class="h3-title">Power Yoga<br>Classes</h3></a>
                             </div>
                             <p>Suspendisse nisi libero, cursus ac magna sit amet, fermentum imperdiet nisi.</p>
                             <div class="class-full">
@@ -287,7 +287,7 @@
                                 <div class="class-box-icon">
                                     <img src="assets/images/class-icon5.png" alt="Icon">
                                 </div>
-                                <a href="class-detail.php"><h3 class="h3-title">Boxing & Martial<br>Arts Classes</h3></a>
+                                <a href="class-detail"><h3 class="h3-title">Boxing & Martial<br>Arts Classes</h3></a>
                             </div>
                             <p>Suspendisse nisi libero, cursus ac magna sit amet, fermentum imperdiet nisi.</p>
                             <div class="class-full">
@@ -314,7 +314,7 @@
                                 <div class="class-box-icon">
                                     <img src="assets/images/class-icon6.png" alt="Icon">
                                 </div>
-                                <a href="class-detail.php"><h3 class="h3-title">Free Dancing<br>Classes</h3></a>
+                                <a href="class-detail"><h3 class="h3-title">Free Dancing<br>Classes</h3></a>
                             </div>
                             <p>Suspendisse nisi libero, cursus ac magna sit amet, fermentum imperdiet nisi.</p>
                             <div class="class-full">
@@ -414,7 +414,7 @@
                             </div>
                         </div>
                         <div class="team-content">
-                            <a href="team-detail.php"><h3 class="h3-title team-text-color">Desert Antony</h3></a>
+                            <a href="team-detail"><h3 class="h3-title team-text-color">Desert Antony</h3></a>
                             <span>Fitness Trainer</span>
                             <div class="team-social">
                                 <ul>
@@ -440,7 +440,7 @@
                             </div>
                         </div>
                         <div class="team-content">
-                            <a href="team-detail.php"><h3 class="h3-title team-text-color">Kate Johnson</h3></a>
+                            <a href="team-detail"><h3 class="h3-title team-text-color">Kate Johnson</h3></a>
                             <span>Fitness Trainer</span>
                             <div class="team-social">
                                 <ul>
@@ -466,7 +466,7 @@
                             </div>
                         </div>
                         <div class="team-content">
-                            <a href="team-detail.php"><h3 class="h3-title team-text-color">John Hard</h3></a>
+                            <a href="team-detail"><h3 class="h3-title team-text-color">John Hard</h3></a>
                             <span>Fitness Trainer</span>
                             <div class="team-social">
                                 <ul>
@@ -492,7 +492,7 @@
                             </div>
                         </div>
                         <div class="team-content">
-                            <a href="team-detail.php"><h3 class="h3-title team-text-color">Zahra Sharif</h3></a>
+                            <a href="team-detail"><h3 class="h3-title team-text-color">Zahra Sharif</h3></a>
                             <span>Fitness Trainer</span>
                             <div class="team-social">
                                 <ul>
@@ -518,7 +518,7 @@
                             </div>
                         </div>
                         <div class="team-content">
-                            <a href="team-detail.php"><h3 class="h3-title team-text-color">Ruth Edwards</h3></a>
+                            <a href="team-detail"><h3 class="h3-title team-text-color">Ruth Edwards</h3></a>
                             <span>Fitness Trainer</span>
                             <div class="team-social">
                                 <ul>
@@ -588,7 +588,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <a href="contact-us.php" class="sec-btn">Join Now</a>
+                            <a href="contact-us" class="sec-btn">Join Now</a>
                         </div>
                     </div>
                 </div>
@@ -625,7 +625,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <a href="contact-us.php" class="sec-btn">Join Now</a>
+                            <a href="contact-us" class="sec-btn">Join Now</a>
                         </div>
                     </div>
                 </div>
@@ -662,7 +662,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <a href="contact-us.php" class="sec-btn">Join Now</a>
+                            <a href="contact-us" class="sec-btn">Join Now</a>
                         </div>
                     </div>
                 </div>
@@ -680,7 +680,7 @@
                         <img src="assets/images/portfolio-img1.jpg" alt="Portfolio">
                         <div class="portfolio-content">
                             <span>Weight Loss Program</span>
-                            <a href="portfolio-detail.php"><h3 class="h3-title">Couple Fitness Workout</h3></a>
+                            <a href="portfolio-detail"><h3 class="h3-title">Couple Fitness Workout</h3></a>
                         </div>
                     </div>
                 </div>
@@ -689,7 +689,7 @@
                         <img src="assets/images/portfolio-img2.jpg" alt="Portfolio">
                         <div class="portfolio-content">
                             <span>Weight Loss Program</span>
-                            <a href="portfolio-detail.php"><h3 class="h3-title">Couple Fitness Workout</h3></a>
+                            <a href="portfolio-detail"><h3 class="h3-title">Couple Fitness Workout</h3></a>
                         </div>
                     </div>
                 </div>
@@ -698,7 +698,7 @@
                         <img src="assets/images/portfolio-img3.jpg" alt="Portfolio">
                         <div class="portfolio-content">
                             <span>Weight Loss Program</span>
-                            <a href="portfolio-detail.php"><h3 class="h3-title">Cardio Workout</h3></a>
+                            <a href="portfolio-detail"><h3 class="h3-title">Cardio Workout</h3></a>
                         </div>
                     </div>
                 </div>
@@ -707,7 +707,7 @@
                         <img src="assets/images/portfolio-img4.jpg" alt="Portfolio">
                         <div class="portfolio-content">
                             <span>Weight Loss Program</span>
-                            <a href="portfolio-detail.php"><h3 class="h3-title">Fitness Workout</h3></a>
+                            <a href="portfolio-detail"><h3 class="h3-title">Fitness Workout</h3></a>
                         </div>
                     </div>
                 </div>
@@ -716,7 +716,7 @@
                         <img src="assets/images/portfolio-img5.jpg" alt="Portfolio">
                         <div class="portfolio-content">
                             <span>Weight Loss Program</span>
-                            <a href="portfolio-detail.php"><h3 class="h3-title">Couple Fitness Workout</h3></a>
+                            <a href="portfolio-detail"><h3 class="h3-title">Couple Fitness Workout</h3></a>
                         </div>
                     </div>
                 </div>
@@ -982,7 +982,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer-box-one">
-                        <a href="index-2.php">
+                        <a href="index-2">
                             <img src="assets/images/logo.png" alt="Fithub">
                         </a>
                         <p>Etiam suscipit fringilla ullamcorper sed malesuada urna nec odio.</p>
@@ -1006,11 +1006,11 @@
                         <h3 class="h3-title">Our Links</h3>
                         <div class="line"></div>
                         <ul>
-                            <li><a href="index-2.php">Home</a></li>
-                            <li><a href="about-us.php">About Us</a></li>
-                            <li><a href="classes.php">Classes</a></li>
-                            <li><a href="blog-list.php">Blog</a></li>
-                            <li><a href="contact-us.php">Contact Us</a></li>
+                            <li><a href="index-2">Home</a></li>
+                            <li><a href="about-us">About Us</a></li>
+                            <li><a href="classes">Classes</a></li>
+                            <li><a href="blog-list">Blog</a></li>
+                            <li><a href="contact-us">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -1072,14 +1072,14 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-7">
                         <div class="copyright-text">
-                            <span>Copyright © 2022 <a href="index-2.php">ShivaayThemes.</a> All rights reserved.</span>
+                            <span>Copyright © 2022 <a href="index-2">ShivaayThemes.</a> All rights reserved.</span>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-5">
                         <div class="copyright-links">
                             <ul>
-                                <li><a href="about-us.php">Privacy Policy</a></li>
-                                <li><a href="about-us.php">Team &amp; Condition</a></li>
+                                <li><a href="about-us">Privacy Policy</a></li>
+                                <li><a href="about-us">Team &amp; Condition</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1153,5 +1153,5 @@
 
 </body>
 
-<!-- Mirrored from shivaaythemes.in/fithub-demo/classes.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:22 GMT -->
+<!-- Mirrored from shivaaythemes.in/fithub-demo/classes by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 24 Feb 2023 17:02:22 GMT -->
 </html>
