@@ -83,8 +83,8 @@
     'bold' => $fontDir . '/baloo-tamma-2-bold_e0fa23073c4121e1d67fc81db18a62fe',
   ),
   'open sans' => array(
-    'normal' => $fontDir . '/open-sans-normal_0de70c49c12ad3d5b30897be0764f760',
-    '600' => $fontDir . '/open-sans-600_80b344cbabc13253146884f38d4f451d',
-    'bold' => $fontDir . '/open-sans-bold_307c8b05e5c1ebed4511274cd14c5aa1',
+    'normal' => $fontDir . '/open-sans-normal_98b4af7c31a8844ad845b521b340abe8',
+    '600' => $fontDir . '/open-sans-600_1304de969dbde73ce5495fbae1504843',
+    'bold' => $fontDir . '/open-sans-bold_f5836ebbb5d80c7cd133581c8d7f6236',
   ),
 ) ?>
